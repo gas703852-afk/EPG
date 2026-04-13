@@ -1,4 +1,3 @@
-```python
 from datetime import datetime, timedelta
 
 def generar_epg():
@@ -40,4 +39,3 @@ def generar_epg():
 
 if __name__ == "__main__":
     generar_epg()
-```
