@@ -4,122 +4,122 @@
     <display-name>ATV</display-name>
   </channel>
 
-  <programme start="20260413214007 +0500" stop="20260413224007 +0500" channel="atv.pe">
+  <programme start="20260413214338 -0500" stop="20260413224338 -0500" channel="atv.pe">
     <title>Programa 1</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260413224007 +0500" stop="20260413234007 +0500" channel="atv.pe">
+  <programme start="20260413224338 -0500" stop="20260413234338 -0500" channel="atv.pe">
     <title>Programa 2</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260413234007 +0500" stop="20260414004007 +0500" channel="atv.pe">
+  <programme start="20260413234338 -0500" stop="20260414004338 -0500" channel="atv.pe">
     <title>Programa 3</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414004007 +0500" stop="20260414014007 +0500" channel="atv.pe">
+  <programme start="20260414004338 -0500" stop="20260414014338 -0500" channel="atv.pe">
     <title>Programa 4</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414014007 +0500" stop="20260414024007 +0500" channel="atv.pe">
+  <programme start="20260414014338 -0500" stop="20260414024338 -0500" channel="atv.pe">
     <title>Programa 5</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414024007 +0500" stop="20260414034007 +0500" channel="atv.pe">
+  <programme start="20260414024338 -0500" stop="20260414034338 -0500" channel="atv.pe">
     <title>Programa 6</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414034007 +0500" stop="20260414044007 +0500" channel="atv.pe">
+  <programme start="20260414034338 -0500" stop="20260414044338 -0500" channel="atv.pe">
     <title>Programa 7</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414044007 +0500" stop="20260414054007 +0500" channel="atv.pe">
+  <programme start="20260414044338 -0500" stop="20260414054338 -0500" channel="atv.pe">
     <title>Programa 8</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414054007 +0500" stop="20260414064007 +0500" channel="atv.pe">
+  <programme start="20260414054338 -0500" stop="20260414064338 -0500" channel="atv.pe">
     <title>Programa 9</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414064007 +0500" stop="20260414074007 +0500" channel="atv.pe">
+  <programme start="20260414064338 -0500" stop="20260414074338 -0500" channel="atv.pe">
     <title>Programa 10</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414074007 +0500" stop="20260414084007 +0500" channel="atv.pe">
+  <programme start="20260414074338 -0500" stop="20260414084338 -0500" channel="atv.pe">
     <title>Programa 11</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414084007 +0500" stop="20260414094007 +0500" channel="atv.pe">
+  <programme start="20260414084338 -0500" stop="20260414094338 -0500" channel="atv.pe">
     <title>Programa 12</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414094007 +0500" stop="20260414104007 +0500" channel="atv.pe">
+  <programme start="20260414094338 -0500" stop="20260414104338 -0500" channel="atv.pe">
     <title>Programa 13</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414104007 +0500" stop="20260414114007 +0500" channel="atv.pe">
+  <programme start="20260414104338 -0500" stop="20260414114338 -0500" channel="atv.pe">
     <title>Programa 14</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414114007 +0500" stop="20260414124007 +0500" channel="atv.pe">
+  <programme start="20260414114338 -0500" stop="20260414124338 -0500" channel="atv.pe">
     <title>Programa 15</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414124007 +0500" stop="20260414134007 +0500" channel="atv.pe">
+  <programme start="20260414124338 -0500" stop="20260414134338 -0500" channel="atv.pe">
     <title>Programa 16</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414134007 +0500" stop="20260414144007 +0500" channel="atv.pe">
+  <programme start="20260414134338 -0500" stop="20260414144338 -0500" channel="atv.pe">
     <title>Programa 17</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414144007 +0500" stop="20260414154007 +0500" channel="atv.pe">
+  <programme start="20260414144338 -0500" stop="20260414154338 -0500" channel="atv.pe">
     <title>Programa 18</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414154007 +0500" stop="20260414164007 +0500" channel="atv.pe">
+  <programme start="20260414154338 -0500" stop="20260414164338 -0500" channel="atv.pe">
     <title>Programa 19</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414164007 +0500" stop="20260414174007 +0500" channel="atv.pe">
+  <programme start="20260414164338 -0500" stop="20260414174338 -0500" channel="atv.pe">
     <title>Programa 20</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414174007 +0500" stop="20260414184007 +0500" channel="atv.pe">
+  <programme start="20260414174338 -0500" stop="20260414184338 -0500" channel="atv.pe">
     <title>Programa 21</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414184007 +0500" stop="20260414194007 +0500" channel="atv.pe">
+  <programme start="20260414184338 -0500" stop="20260414194338 -0500" channel="atv.pe">
     <title>Programa 22</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414194007 +0500" stop="20260414204007 +0500" channel="atv.pe">
+  <programme start="20260414194338 -0500" stop="20260414204338 -0500" channel="atv.pe">
     <title>Programa 23</title>
     <desc>Contenido de prueba</desc>
   </programme>
 
-  <programme start="20260414204007 +0500" stop="20260414214007 +0500" channel="atv.pe">
+  <programme start="20260414204338 -0500" stop="20260414214338 -0500" channel="atv.pe">
     <title>Programa 24</title>
     <desc>Contenido de prueba</desc>
   </programme>
