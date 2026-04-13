@@ -1,0 +1,32 @@
+```yaml
+name: Generar EPG
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v3
+
+      - name: Instalar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Ejecutar script
+        run: python generate_epg.py
+
+      - name: Subir epg.xml
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "bot@epg.com"
+          git add epg.xml
+          git commit -m "EPG actualizado" || echo "sin cambios"
+          git push
+```
