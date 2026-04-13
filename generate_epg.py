@@ -1,41 +1,35 @@
 from datetime import datetime, timedelta
 
-def generar_epg():
-    now = datetime.utcnow()
+# Hora actual
+now = datetime.utcnow()
 
-    # Ajuste Perú (-5)
-    now = now - timedelta(hours=5)
+# Crear contenido XML básico
+epg = '''<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="atv.pe">
+    <display-name>ATV</display-name>
+  </channel>
+'''
 
-    programas = [
-        ("Noticias ATV", 8, 9),
-        ("Película del Día", 9, 11),
-        ("Serie Nacional", 11, 13),
-    ]
+# Generar programación simple (24 horas)
+for i in range(24):
+    start = now + timedelta(hours=i)
+    stop = start + timedelta(hours=1)
 
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    xml += '<tv>\n'
+    start_str = start.strftime("%Y%m%d%H%M%S +0000")
+    stop_str = stop.strftime("%Y%m%d%H%M%S +0000")
 
-    canal_id = "atv.pe"
+    epg += f'''
+  <programme start="{start_str}" stop="{stop_str}" channel="atv.pe">
+    <title>Programa {i+1}</title>
+    <desc>Contenido de prueba</desc>
+  </programme>
+'''
 
-    xml += f'  <channel id="{canal_id}">\n'
-    xml += f'    <display-name>ATV</display-name>\n'
-    xml += f'  </channel>\n'
+epg += '</tv>'
 
-    for titulo, start_h, end_h in programas:
-        start = now.replace(hour=start_h, minute=0, second=0)
-        end = now.replace(hour=end_h, minute=0, second=0)
+# Guardar archivo
+with open("epg.xml", "w", encoding="utf-8") as f:
+    f.write(epg)
 
-        start_str = start.strftime("%Y%m%d%H%M%S -0500")
-        end_str = end.strftime("%Y%m%d%H%M%S -0500")
-
-        xml += f'  <programme start="{start_str}" stop="{end_str}" channel="{canal_id}">\n'
-        xml += f'    <title>{titulo}</title>\n'
-        xml += f'  </programme>\n'
-
-    xml += '</tv>'
-
-    with open("epg.xml", "w", encoding="utf-8") as f:
-        f.write(xml)
-
-if __name__ == "__main__":
-    generar_epg()
+print("EPG generado correctamente")
