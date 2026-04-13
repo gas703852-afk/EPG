@@ -6,7 +6,7 @@ now = datetime.utcnow()
 # Crear contenido XML básico
 epg = '''<?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="atv.pe">
+  <channel id="ATV">
     <display-name>ATV</display-name>
   </channel>
 '''
