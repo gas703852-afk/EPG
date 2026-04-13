@@ -20,7 +20,7 @@ for i in range(24):
     stop_str = stop.strftime("%Y%m%d%H%M%S -0500")
 
     epg += f'''
-  <programme start="{start_str}" stop="{stop_str}" channel="atv.pe">
+  <programme start="{start_str}" stop="{stop_str}" channel="ATV">
     <title>Programa {i+1}</title>
     <desc>Contenido de prueba</desc>
   </programme>
