@@ -16,8 +16,8 @@ for i in range(24):
     start = now + timedelta(hours=i)
     stop = start + timedelta(hours=1)
 
-    start_str = start.strftime("%Y%m%d%H%M%S +0500")
-    stop_str = stop.strftime("%Y%m%d%H%M%S +0500")
+    start_str = start.strftime("%Y%m%d%H%M%S -0500")
+    stop_str = stop.strftime("%Y%m%d%H%M%S -0500")
 
     epg += f'''
   <programme start="{start_str}" stop="{stop_str}" channel="atv.pe">
