@@ -6,10 +6,33 @@ HEADERS = {"User-Agent": "Mozilla/5.0"}
 
 CANALES = [
     {"id": "ATV", "url": "https://www.gatotv.com/canal/atv"},
-    {"id": "WILLAX", "url": "https://www.gatotv.com/canal/willax_tv"} 
-    {"id": "WILLAX", "url": "https://www.gatotv.com/canal/willax_tv"}
+    # canal ATV +
+    # canal ATV Sur
+    # canal RPP
+    # canal Canal N
+    {"id": "Panamericana", "url": "https://mi.tv/pe/canales/panamericana-tv"},
+    # canal PBO
+    {"id": "WILLAX", "url": "https://www.gatotv.com/canal/willax_tv"},
+    # canal Exitosa
+    # canal PLUS TV LIFE
+    {"id": "Tv Peru", "url": "https://mi.tv/pe/canales/tv-peru"},
     {"id": "LATINA", "url": "https://www.gatotv.com/canal/frecuencia_latina"},
-    
+    # canal Latina Noticias
+    {"id": "LATINA", "url": "https://www.gatotv.com/canal/frecuencia_latina"},
+    # canal Global
+    {"id": "LATINA", "url": "https://www.gatotv.com/canal/america_television_peru"},
+    # canal Liga 1 Max
+    # canal Liga 1
+    # canal DirecTV
+    # canal Movistar Deportes
+    {"id": "ESPN HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 2 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 3 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 4 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 5 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 6 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN 7 HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
+    {"id": "ESPN Premium HD", "url": "https://www.gatotv.com/canal/espn_internacional"},
 ]
 
 def obtener_programacion(url):
