@@ -1,4 +1,3 @@
-```python
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
@@ -83,4 +82,3 @@ def generate_epg():
 
 
 generate_epg()
-```
