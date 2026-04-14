@@ -4,52 +4,52 @@
     <display-name>ATV</display-name>
   </channel>
 
-  <programme start="20260414170452 -0500" stop="20260414180452 -0500" channel="ATV">
+  <programme start="20260414173658 -0500" stop="20260414183658 -0500" channel="ATV">
     <title>ATV Programa 1</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414180452 -0500" stop="20260414190452 -0500" channel="ATV">
+  <programme start="20260414183658 -0500" stop="20260414193658 -0500" channel="ATV">
     <title>ATV Programa 2</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414190452 -0500" stop="20260414200452 -0500" channel="ATV">
+  <programme start="20260414193658 -0500" stop="20260414203658 -0500" channel="ATV">
     <title>ATV Programa 3</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414200452 -0500" stop="20260414210452 -0500" channel="ATV">
+  <programme start="20260414203658 -0500" stop="20260414213658 -0500" channel="ATV">
     <title>ATV Programa 4</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414210452 -0500" stop="20260414220452 -0500" channel="ATV">
+  <programme start="20260414213658 -0500" stop="20260414223658 -0500" channel="ATV">
     <title>ATV Programa 5</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414220452 -0500" stop="20260414230452 -0500" channel="ATV">
+  <programme start="20260414223658 -0500" stop="20260414233658 -0500" channel="ATV">
     <title>ATV Programa 6</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414230452 -0500" stop="20260415000452 -0500" channel="ATV">
+  <programme start="20260414233658 -0500" stop="20260415003658 -0500" channel="ATV">
     <title>ATV Programa 7</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415000452 -0500" stop="20260415010452 -0500" channel="ATV">
+  <programme start="20260415003658 -0500" stop="20260415013658 -0500" channel="ATV">
     <title>ATV Programa 8</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415010452 -0500" stop="20260415020452 -0500" channel="ATV">
+  <programme start="20260415013658 -0500" stop="20260415023658 -0500" channel="ATV">
     <title>ATV Programa 9</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415020452 -0500" stop="20260415030452 -0500" channel="ATV">
+  <programme start="20260415023658 -0500" stop="20260415033658 -0500" channel="ATV">
     <title>ATV Programa 10</title>
     <desc>Programación automática</desc>
   </programme>
@@ -57,52 +57,52 @@
     <display-name>Latina HD</display-name>
   </channel>
 
-  <programme start="20260414170452 -0500" stop="20260414180452 -0500" channel="Latina HD">
+  <programme start="20260414173658 -0500" stop="20260414183658 -0500" channel="Latina HD">
     <title>Latina HD Programa 1</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414180452 -0500" stop="20260414190452 -0500" channel="Latina HD">
+  <programme start="20260414183658 -0500" stop="20260414193658 -0500" channel="Latina HD">
     <title>Latina HD Programa 2</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414190452 -0500" stop="20260414200452 -0500" channel="Latina HD">
+  <programme start="20260414193658 -0500" stop="20260414203658 -0500" channel="Latina HD">
     <title>Latina HD Programa 3</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414200452 -0500" stop="20260414210452 -0500" channel="Latina HD">
+  <programme start="20260414203658 -0500" stop="20260414213658 -0500" channel="Latina HD">
     <title>Latina HD Programa 4</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414210452 -0500" stop="20260414220452 -0500" channel="Latina HD">
+  <programme start="20260414213658 -0500" stop="20260414223658 -0500" channel="Latina HD">
     <title>Latina HD Programa 5</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414220452 -0500" stop="20260414230452 -0500" channel="Latina HD">
+  <programme start="20260414223658 -0500" stop="20260414233658 -0500" channel="Latina HD">
     <title>Latina HD Programa 6</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414230452 -0500" stop="20260415000452 -0500" channel="Latina HD">
+  <programme start="20260414233658 -0500" stop="20260415003658 -0500" channel="Latina HD">
     <title>Latina HD Programa 7</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415000452 -0500" stop="20260415010452 -0500" channel="Latina HD">
+  <programme start="20260415003658 -0500" stop="20260415013658 -0500" channel="Latina HD">
     <title>Latina HD Programa 8</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415010452 -0500" stop="20260415020452 -0500" channel="Latina HD">
+  <programme start="20260415013658 -0500" stop="20260415023658 -0500" channel="Latina HD">
     <title>Latina HD Programa 9</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415020452 -0500" stop="20260415030452 -0500" channel="Latina HD">
+  <programme start="20260415023658 -0500" stop="20260415033658 -0500" channel="Latina HD">
     <title>Latina HD Programa 10</title>
     <desc>Programación automática</desc>
   </programme>
@@ -110,52 +110,52 @@
     <display-name>WILLAX</display-name>
   </channel>
 
-  <programme start="20260414170452 -0500" stop="20260414180452 -0500" channel="WILLAX">
+  <programme start="20260414173658 -0500" stop="20260414183658 -0500" channel="WILLAX">
     <title>WILLAX Programa 1</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414180452 -0500" stop="20260414190452 -0500" channel="WILLAX">
+  <programme start="20260414183658 -0500" stop="20260414193658 -0500" channel="WILLAX">
     <title>WILLAX Programa 2</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414190452 -0500" stop="20260414200452 -0500" channel="WILLAX">
+  <programme start="20260414193658 -0500" stop="20260414203658 -0500" channel="WILLAX">
     <title>WILLAX Programa 3</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414200452 -0500" stop="20260414210452 -0500" channel="WILLAX">
+  <programme start="20260414203658 -0500" stop="20260414213658 -0500" channel="WILLAX">
     <title>WILLAX Programa 4</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414210452 -0500" stop="20260414220452 -0500" channel="WILLAX">
+  <programme start="20260414213658 -0500" stop="20260414223658 -0500" channel="WILLAX">
     <title>WILLAX Programa 5</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414220452 -0500" stop="20260414230452 -0500" channel="WILLAX">
+  <programme start="20260414223658 -0500" stop="20260414233658 -0500" channel="WILLAX">
     <title>WILLAX Programa 6</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260414230452 -0500" stop="20260415000452 -0500" channel="WILLAX">
+  <programme start="20260414233658 -0500" stop="20260415003658 -0500" channel="WILLAX">
     <title>WILLAX Programa 7</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415000452 -0500" stop="20260415010452 -0500" channel="WILLAX">
+  <programme start="20260415003658 -0500" stop="20260415013658 -0500" channel="WILLAX">
     <title>WILLAX Programa 8</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415010452 -0500" stop="20260415020452 -0500" channel="WILLAX">
+  <programme start="20260415013658 -0500" stop="20260415023658 -0500" channel="WILLAX">
     <title>WILLAX Programa 9</title>
     <desc>Programación automática</desc>
   </programme>
 
-  <programme start="20260415020452 -0500" stop="20260415030452 -0500" channel="WILLAX">
+  <programme start="20260415023658 -0500" stop="20260415033658 -0500" channel="WILLAX">
     <title>WILLAX Programa 10</title>
     <desc>Programación automática</desc>
   </programme>
