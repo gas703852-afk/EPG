@@ -1,35 +1,103 @@
+import requests
+from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 
-# Hora actual
-now = datetime.utcnow()
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 
-# Crear contenido XML básico
-epg = '''<?xml version="1.0" encoding="UTF-8"?>
+CANALES = [
+    {"id": "ATV", "url": "https://www.gatotv.com/canal/atv"},
+    {"id": "WILLAX", "url": "https://www.gatotv.com/canal/willax_tv"} 
+    {"id": "WILLAX", "url": "https://www.gatotv.com/canal/willax_tv"}
+    {"id": "LATINA", "url": "https://www.gatotv.com/canal/frecuencia_latina"},
+    
+]
+
+def obtener_programacion(url):
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        programas = []
+        items = soup.select(".item")  # puede variar
+
+        for item in items:
+            hora = item.select_one(".time")
+            titulo = item.select_one(".title")
+
+            if hora and titulo:
+                programas.append({
+                    "hora": hora.text.strip(),
+                    "titulo": titulo.text.strip()
+                })
+
+        return programas
+
+    except Exception as e:
+        print(f"Error scraping {url}: {e}")
+        return []
+
+
+def generar_programas_xml(canal_id, programas_scraping):
+    now = datetime.now()
+    xml = ""
+
+    # 🔴 SI FALLA SCRAPING → fallback automático
+    if not programas_scraping:
+        for i in range(12):
+            start = now + timedelta(hours=i)
+            stop = start + timedelta(hours=1)
+
+            xml += f'''
+  <programme start="{start.strftime("%Y%m%d%H%M%S")} -0500" stop="{stop.strftime("%Y%m%d%H%M%S")} -0500" channel="{canal_id}">
+    <title>{canal_id} Programa {i+1}</title>
+    <desc>Programación automática</desc>
+  </programme>
+'''
+        return xml
+
+    # 🟢 SI HAY DATOS REALES
+    for prog in programas_scraping[:12]:
+        try:
+            h, m = map(int, prog["hora"].split(":"))
+            start = now.replace(hour=h, minute=m, second=0)
+            stop = start + timedelta(hours=1)
+
+            xml += f'''
+  <programme start="{start.strftime("%Y%m%d%H%M%S")} -0500" stop="{stop.strftime("%Y%m%d%H%M%S")} -0500" channel="{canal_id}">
+    <title>{prog["titulo"]}</title>
+    <desc>Programación real</desc>
+  </programme>
+'''
+        except:
+            continue
+
+    return xml
+
+
+def generar_epg():
+    xml = '''<?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ATV">
-    <display-name>ATV</display-name>
+'''
+
+    for canal in CANALES:
+        canal_id = canal["id"]
+
+        xml += f'''
+  <channel id="{canal_id}">
+    <display-name>{canal_id}</display-name>
   </channel>
 '''
 
-# Generar programación simple (24 horas)
-for i in range(24):
-    start = now + timedelta(hours=i)
-    stop = start + timedelta(hours=1)
+        programas_scraping = obtener_programacion(canal["url"])
+        xml += generar_programas_xml(canal_id, programas_scraping)
 
-    start_str = start.strftime("%Y%m%d%H%M%S -0500")
-    stop_str = stop.strftime("%Y%m%d%H%M%S -0500")
+    xml += "\n</tv>"
 
-    epg += f'''
-  <programme start="{start_str}" stop="{stop_str}" channel="ATV">
-    <title>Programa {i+1}</title>
-    <desc>Contenido de prueba</desc>
-  </programme>
-'''
+    with open("epg.xml", "w", encoding="utf-8") as f:
+        f.write(xml)
 
-epg += '</tv>'
+    print("EPG generado correctamente")
 
-# Guardar archivo
-with open("epg.xml", "w", encoding="utf-8") as f:
-    f.write(epg)
 
-print("EPG generado correctamente")
+if __name__ == "__main__":
+    generar_epg()
