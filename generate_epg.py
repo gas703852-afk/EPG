@@ -13,32 +13,19 @@ def format_time(dt):
 
 def get_schedule(url):
     headers = {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }
 
     try:
         r = requests.get(url, headers=headers, timeout=10)
-
-        # 🔍 DEBUG ACCESO
-        print(f"URL: {url}")
-        print(f"STATUS: {r.status_code}")
-
-        if r.status_code == 200:
-            print("✅ Acceso correcto")
-
-            # detectar bloqueo
-            if "cloudflare" in r.text.lower() or "access denied" in r.text.lower():
-                print("⚠️ POSIBLE BLOQUEO (Cloudflare / Bot)")
-
-        else:
-            print("❌ Error HTTP")
-
         soup = BeautifulSoup(r.text, "html.parser")
 
         programas = []
+
+        # 🔥 SELECTOR MÁS FLEXIBLE
         bloques = soup.find_all("div", class_="item")
 
-        print(f"📺 Programas encontrados: {len(bloques)}")
+        print(f"DEBUG: encontrados {len(bloques)} bloques en {url}")
 
         for b in bloques:
             try:
@@ -51,18 +38,20 @@ def get_schedule(url):
                 hora = hora_tag.text.strip()
                 titulo = titulo_tag.text.strip()
 
+                # validar formato HH:MM
                 if ":" not in hora:
                     continue
 
                 programas.append((hora, titulo))
 
-            except:
+            except Exception as e:
+                print("Error parseando bloque:", e)
                 continue
 
         return programas
 
     except Exception as e:
-        print("❌ Error total:", e)
+        print("Error scraping:", e)
         return []
 
 def generate_epg():
