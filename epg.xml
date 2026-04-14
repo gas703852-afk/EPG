@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+  <channel id="ATV">
+    <display-name>ATV</display-name>
+  </channel>
+
+  <programme start="20260414155855 -0500" stop="20260414165855 -0500" channel="ATV">
+    <title>ATV Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165855 -0500" stop="20260414175855 -0500" channel="ATV">
+    <title>ATV Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175855 -0500" stop="20260414185855 -0500" channel="ATV">
+    <title>ATV Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185855 -0500" stop="20260414195855 -0500" channel="ATV">
+    <title>ATV Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195855 -0500" stop="20260414205855 -0500" channel="ATV">
+    <title>ATV Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205855 -0500" stop="20260414215855 -0500" channel="ATV">
+    <title>ATV Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215855 -0500" stop="20260414225855 -0500" channel="ATV">
+    <title>ATV Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225855 -0500" stop="20260414235855 -0500" channel="ATV">
+    <title>ATV Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235855 -0500" stop="20260415005855 -0500" channel="ATV">
+    <title>ATV Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005855 -0500" stop="20260415015855 -0500" channel="ATV">
+    <title>ATV Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015855 -0500" stop="20260415025855 -0500" channel="ATV">
+    <title>ATV Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025855 -0500" stop="20260415035855 -0500" channel="ATV">
+    <title>ATV Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="Panamericana">
+    <display-name>Panamericana</display-name>
+  </channel>
+
+  <programme start="20260414155855 -0500" stop="20260414165855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165855 -0500" stop="20260414175855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175855 -0500" stop="20260414185855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185855 -0500" stop="20260414195855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195855 -0500" stop="20260414205855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205855 -0500" stop="20260414215855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215855 -0500" stop="20260414225855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225855 -0500" stop="20260414235855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235855 -0500" stop="20260415005855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005855 -0500" stop="20260415015855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015855 -0500" stop="20260415025855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025855 -0500" stop="20260415035855 -0500" channel="Panamericana">
+    <title>Panamericana Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="WILLAX">
+    <display-name>WILLAX</display-name>
+  </channel>
+
+  <programme start="20260414155855 -0500" stop="20260414165855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165855 -0500" stop="20260414175855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175855 -0500" stop="20260414185855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185855 -0500" stop="20260414195855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195855 -0500" stop="20260414205855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205855 -0500" stop="20260414215855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215855 -0500" stop="20260414225855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225855 -0500" stop="20260414235855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235855 -0500" stop="20260415005855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005855 -0500" stop="20260415015855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015855 -0500" stop="20260415025855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025855 -0500" stop="20260415035855 -0500" channel="WILLAX">
+    <title>WILLAX Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="Tv Peru">
+    <display-name>Tv Peru</display-name>
+  </channel>
+
+  <programme start="20260414155855 -0500" stop="20260414165855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165855 -0500" stop="20260414175855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175855 -0500" stop="20260414185855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185855 -0500" stop="20260414195855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195855 -0500" stop="20260414205855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205855 -0500" stop="20260414215855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215855 -0500" stop="20260414225855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225855 -0500" stop="20260414235855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235855 -0500" stop="20260415005855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005855 -0500" stop="20260415015855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015855 -0500" stop="20260415025855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025855 -0500" stop="20260415035855 -0500" channel="Tv Peru">
+    <title>Tv Peru Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="LATINA">
+    <display-name>LATINA</display-name>
+  </channel>
+
+  <programme start="20260414155855 -0500" stop="20260414165855 -0500" channel="LATINA">
+    <title>LATINA Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165855 -0500" stop="20260414175855 -0500" channel="LATINA">
+    <title>LATINA Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175855 -0500" stop="20260414185855 -0500" channel="LATINA">
+    <title>LATINA Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185855 -0500" stop="20260414195855 -0500" channel="LATINA">
+    <title>LATINA Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195855 -0500" stop="20260414205855 -0500" channel="LATINA">
+    <title>LATINA Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205855 -0500" stop="20260414215855 -0500" channel="LATINA">
+    <title>LATINA Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215855 -0500" stop="20260414225855 -0500" channel="LATINA">
+    <title>LATINA Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225855 -0500" stop="20260414235855 -0500" channel="LATINA">
+    <title>LATINA Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235855 -0500" stop="20260415005855 -0500" channel="LATINA">
+    <title>LATINA Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005855 -0500" stop="20260415015855 -0500" channel="LATINA">
+    <title>LATINA Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015855 -0500" stop="20260415025855 -0500" channel="LATINA">
+    <title>LATINA Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025855 -0500" stop="20260415035855 -0500" channel="LATINA">
+    <title>LATINA Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="LATINA">
+    <display-name>LATINA</display-name>
+  </channel>
+
+  <programme start="20260414155856 -0500" stop="20260414165856 -0500" channel="LATINA">
+    <title>LATINA Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165856 -0500" stop="20260414175856 -0500" channel="LATINA">
+    <title>LATINA Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175856 -0500" stop="20260414185856 -0500" channel="LATINA">
+    <title>LATINA Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185856 -0500" stop="20260414195856 -0500" channel="LATINA">
+    <title>LATINA Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195856 -0500" stop="20260414205856 -0500" channel="LATINA">
+    <title>LATINA Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205856 -0500" stop="20260414215856 -0500" channel="LATINA">
+    <title>LATINA Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215856 -0500" stop="20260414225856 -0500" channel="LATINA">
+    <title>LATINA Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225856 -0500" stop="20260414235856 -0500" channel="LATINA">
+    <title>LATINA Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235856 -0500" stop="20260415005856 -0500" channel="LATINA">
+    <title>LATINA Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005856 -0500" stop="20260415015856 -0500" channel="LATINA">
+    <title>LATINA Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015856 -0500" stop="20260415025856 -0500" channel="LATINA">
+    <title>LATINA Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025856 -0500" stop="20260415035856 -0500" channel="LATINA">
+    <title>LATINA Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="LATINA">
+    <display-name>LATINA</display-name>
+  </channel>
+
+  <programme start="20260414155856 -0500" stop="20260414165856 -0500" channel="LATINA">
+    <title>LATINA Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165856 -0500" stop="20260414175856 -0500" channel="LATINA">
+    <title>LATINA Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175856 -0500" stop="20260414185856 -0500" channel="LATINA">
+    <title>LATINA Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185856 -0500" stop="20260414195856 -0500" channel="LATINA">
+    <title>LATINA Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195856 -0500" stop="20260414205856 -0500" channel="LATINA">
+    <title>LATINA Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205856 -0500" stop="20260414215856 -0500" channel="LATINA">
+    <title>LATINA Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215856 -0500" stop="20260414225856 -0500" channel="LATINA">
+    <title>LATINA Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225856 -0500" stop="20260414235856 -0500" channel="LATINA">
+    <title>LATINA Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235856 -0500" stop="20260415005856 -0500" channel="LATINA">
+    <title>LATINA Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005856 -0500" stop="20260415015856 -0500" channel="LATINA">
+    <title>LATINA Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015856 -0500" stop="20260415025856 -0500" channel="LATINA">
+    <title>LATINA Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025856 -0500" stop="20260415035856 -0500" channel="LATINA">
+    <title>LATINA Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN HD">
+    <display-name>ESPN HD</display-name>
+  </channel>
+
+  <programme start="20260414155856 -0500" stop="20260414165856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165856 -0500" stop="20260414175856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175856 -0500" stop="20260414185856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185856 -0500" stop="20260414195856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195856 -0500" stop="20260414205856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205856 -0500" stop="20260414215856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215856 -0500" stop="20260414225856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225856 -0500" stop="20260414235856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235856 -0500" stop="20260415005856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005856 -0500" stop="20260415015856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015856 -0500" stop="20260415025856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025856 -0500" stop="20260415035856 -0500" channel="ESPN HD">
+    <title>ESPN HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 2 HD">
+    <display-name>ESPN 2 HD</display-name>
+  </channel>
+
+  <programme start="20260414155857 -0500" stop="20260414165857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165857 -0500" stop="20260414175857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175857 -0500" stop="20260414185857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185857 -0500" stop="20260414195857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195857 -0500" stop="20260414205857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205857 -0500" stop="20260414215857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215857 -0500" stop="20260414225857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225857 -0500" stop="20260414235857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235857 -0500" stop="20260415005857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005857 -0500" stop="20260415015857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015857 -0500" stop="20260415025857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025857 -0500" stop="20260415035857 -0500" channel="ESPN 2 HD">
+    <title>ESPN 2 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 3 HD">
+    <display-name>ESPN 3 HD</display-name>
+  </channel>
+
+  <programme start="20260414155857 -0500" stop="20260414165857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165857 -0500" stop="20260414175857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175857 -0500" stop="20260414185857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185857 -0500" stop="20260414195857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195857 -0500" stop="20260414205857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205857 -0500" stop="20260414215857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215857 -0500" stop="20260414225857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225857 -0500" stop="20260414235857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235857 -0500" stop="20260415005857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005857 -0500" stop="20260415015857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015857 -0500" stop="20260415025857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025857 -0500" stop="20260415035857 -0500" channel="ESPN 3 HD">
+    <title>ESPN 3 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 4 HD">
+    <display-name>ESPN 4 HD</display-name>
+  </channel>
+
+  <programme start="20260414155857 -0500" stop="20260414165857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165857 -0500" stop="20260414175857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175857 -0500" stop="20260414185857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185857 -0500" stop="20260414195857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195857 -0500" stop="20260414205857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205857 -0500" stop="20260414215857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215857 -0500" stop="20260414225857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225857 -0500" stop="20260414235857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235857 -0500" stop="20260415005857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005857 -0500" stop="20260415015857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015857 -0500" stop="20260415025857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025857 -0500" stop="20260415035857 -0500" channel="ESPN 4 HD">
+    <title>ESPN 4 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 5 HD">
+    <display-name>ESPN 5 HD</display-name>
+  </channel>
+
+  <programme start="20260414155857 -0500" stop="20260414165857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165857 -0500" stop="20260414175857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175857 -0500" stop="20260414185857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185857 -0500" stop="20260414195857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195857 -0500" stop="20260414205857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205857 -0500" stop="20260414215857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215857 -0500" stop="20260414225857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225857 -0500" stop="20260414235857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235857 -0500" stop="20260415005857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005857 -0500" stop="20260415015857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015857 -0500" stop="20260415025857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025857 -0500" stop="20260415035857 -0500" channel="ESPN 5 HD">
+    <title>ESPN 5 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 6 HD">
+    <display-name>ESPN 6 HD</display-name>
+  </channel>
+
+  <programme start="20260414155858 -0500" stop="20260414165858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165858 -0500" stop="20260414175858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175858 -0500" stop="20260414185858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185858 -0500" stop="20260414195858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195858 -0500" stop="20260414205858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205858 -0500" stop="20260414215858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215858 -0500" stop="20260414225858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225858 -0500" stop="20260414235858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235858 -0500" stop="20260415005858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005858 -0500" stop="20260415015858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015858 -0500" stop="20260415025858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025858 -0500" stop="20260415035858 -0500" channel="ESPN 6 HD">
+    <title>ESPN 6 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN 7 HD">
+    <display-name>ESPN 7 HD</display-name>
+  </channel>
+
+  <programme start="20260414155858 -0500" stop="20260414165858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165858 -0500" stop="20260414175858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175858 -0500" stop="20260414185858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185858 -0500" stop="20260414195858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195858 -0500" stop="20260414205858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205858 -0500" stop="20260414215858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215858 -0500" stop="20260414225858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225858 -0500" stop="20260414235858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235858 -0500" stop="20260415005858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005858 -0500" stop="20260415015858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015858 -0500" stop="20260415025858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025858 -0500" stop="20260415035858 -0500" channel="ESPN 7 HD">
+    <title>ESPN 7 HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <channel id="ESPN Premium HD">
+    <display-name>ESPN Premium HD</display-name>
+  </channel>
+
+  <programme start="20260414155858 -0500" stop="20260414165858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 1</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414165858 -0500" stop="20260414175858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 2</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414175858 -0500" stop="20260414185858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 3</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414185858 -0500" stop="20260414195858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 4</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414195858 -0500" stop="20260414205858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 5</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414205858 -0500" stop="20260414215858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 6</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414215858 -0500" stop="20260414225858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 7</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414225858 -0500" stop="20260414235858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 8</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260414235858 -0500" stop="20260415005858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 9</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415005858 -0500" stop="20260415015858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 10</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415015858 -0500" stop="20260415025858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 11</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+  <programme start="20260415025858 -0500" stop="20260415035858 -0500" channel="ESPN Premium HD">
+    <title>ESPN Premium HD Programa 12</title>
+    <desc>Programación automática</desc>
+  </programme>
+
+</tv>
