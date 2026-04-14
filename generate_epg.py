@@ -13,27 +13,46 @@ def format_time(dt):
 
 def get_schedule(url):
     headers = {
-        "User-Agent": "Mozilla/5.0"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }
 
-    r = requests.get(url, headers=headers, timeout=10)
-    soup = BeautifulSoup(r.text, "html.parser")
+    try:
+        r = requests.get(url, headers=headers, timeout=10)
+        soup = BeautifulSoup(r.text, "html.parser")
 
-    programas = []
+        programas = []
 
-    items = soup.select(".item")  # puede variar
+        # 🔥 SELECTOR MÁS FLEXIBLE
+        bloques = soup.find_all("div", class_="item")
 
-    for item in items:
-        try:
-            hora = item.select_one(".time").text.strip()
-            titulo = item.select_one(".title").text.strip()
+        print(f"DEBUG: encontrados {len(bloques)} bloques en {url}")
 
-            programas.append((hora, titulo))
-        except:
-            continue
+        for b in bloques:
+            try:
+                hora_tag = b.find("div", class_="time")
+                titulo_tag = b.find("div", class_="title")
 
-    return programas
+                if not hora_tag or not titulo_tag:
+                    continue
 
+                hora = hora_tag.text.strip()
+                titulo = titulo_tag.text.strip()
+
+                # validar formato HH:MM
+                if ":" not in hora:
+                    continue
+
+                programas.append((hora, titulo))
+
+            except Exception as e:
+                print("Error parseando bloque:", e)
+                continue
+
+        return programas
+
+    except Exception as e:
+        print("Error scraping:", e)
+        return []
 
 def generate_epg():
     now = datetime.now()
