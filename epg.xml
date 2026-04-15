@@ -4,159 +4,89 @@
     <display-name>ATV</display-name>
   </channel>
 
-  <programme start="20260415104038 -0500" stop="20260415114038 -0500" channel="ATV">
-    <title>ATV Programa 1</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415000000 -0500" stop="20260415010000 -0500" channel="ATV">
+    <title>The Walking Dead Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415114038 -0500" stop="20260415124038 -0500" channel="ATV">
-    <title>ATV Programa 2</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415010000 -0500" stop="20260415023000 -0500" channel="ATV">
+    <title>Los hombres de Paco</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415124038 -0500" stop="20260415134038 -0500" channel="ATV">
-    <title>ATV Programa 3</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415023000 -0500" stop="20260415043000 -0500" channel="ATV">
+    <title>Combate</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415134038 -0500" stop="20260415144038 -0500" channel="ATV">
-    <title>ATV Programa 4</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415043000 -0500" stop="20260415053000 -0500" channel="ATV">
+    <title>Aguila roja</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415144038 -0500" stop="20260415154038 -0500" channel="ATV">
-    <title>ATV Programa 5</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415053000 -0500" stop="20260415103000 -0500" channel="ATV">
+    <title>ATV noticias edición matinal</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415154038 -0500" stop="20260415164038 -0500" channel="ATV">
-    <title>ATV Programa 6</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415103000 -0500" stop="20260415120000 -0500" channel="ATV">
+    <title>Así de Simple</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415164038 -0500" stop="20260415174038 -0500" channel="ATV">
-    <title>ATV Programa 7</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415120000 -0500" stop="20260415140000 -0500" channel="ATV">
+    <title>ATV Noticias edición mediodía</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415174038 -0500" stop="20260415184038 -0500" channel="ATV">
-    <title>ATV Programa 8</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415140000 -0500" stop="20260415150000 -0500" channel="ATV">
+    <title>Andrea</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415184038 -0500" stop="20260415194038 -0500" channel="ATV">
-    <title>ATV Programa 9</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415150000 -0500" stop="20260415160000 -0500" channel="ATV">
+    <title>El cuerpo del deseo</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415194038 -0500" stop="20260415204038 -0500" channel="ATV">
-    <title>ATV Programa 10</title>
-    <desc>Programación automática</desc>
-  </programme>
-  <channel id="Latina HD">
-    <display-name>Latina HD</display-name>
-  </channel>
-
-  <programme start="20260415104038 -0500" stop="20260415114038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 1</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415160000 -0500" stop="20260415170000 -0500" channel="ATV">
+    <title>Legado de Amor</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415114038 -0500" stop="20260415124038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 2</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415170000 -0500" stop="20260415180000 -0500" channel="ATV">
+    <title>Perdóname</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415124038 -0500" stop="20260415134038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 3</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415180000 -0500" stop="20260415190000 -0500" channel="ATV">
+    <title>Corazón abandonado</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415134038 -0500" stop="20260415144038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 4</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415190000 -0500" stop="20260415200000 -0500" channel="ATV">
+    <title>Tres hermanas</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415144038 -0500" stop="20260415154038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 5</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415200000 -0500" stop="20260415213000 -0500" channel="ATV">
+    <title>Ocurre ahora</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415154038 -0500" stop="20260415164038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 6</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415213000 -0500" stop="20260415230000 -0500" channel="ATV">
+    <title>Magaly TV, la firme</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415164038 -0500" stop="20260415174038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 7</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415230000 -0500" stop="20260415235000 -0500" channel="ATV">
+    <title>ATV noticias edición central</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415174038 -0500" stop="20260415184038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 8</title>
-    <desc>Programación automática</desc>
+  <programme start="20260415235000 -0500" stop="20260416000000 -0500" channel="ATV">
+    <title>El deportivo en otra cancha</title>
+    <desc>Programación real</desc>
   </programme>
 
-  <programme start="20260415184038 -0500" stop="20260415194038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 9</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415194038 -0500" stop="20260415204038 -0500" channel="Latina HD">
-    <title>Latina HD Programa 10</title>
-    <desc>Programación automática</desc>
-  </programme>
-  <channel id="WILLAX">
-    <display-name>WILLAX</display-name>
-  </channel>
-
-  <programme start="20260415104038 -0500" stop="20260415114038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 1</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415114038 -0500" stop="20260415124038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 2</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415124038 -0500" stop="20260415134038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 3</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415134038 -0500" stop="20260415144038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 4</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415144038 -0500" stop="20260415154038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 5</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415154038 -0500" stop="20260415164038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 6</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415164038 -0500" stop="20260415174038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 7</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415174038 -0500" stop="20260415184038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 8</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415184038 -0500" stop="20260415194038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 9</title>
-    <desc>Programación automática</desc>
-  </programme>
-
-  <programme start="20260415194038 -0500" stop="20260415204038 -0500" channel="WILLAX">
-    <title>WILLAX Programa 10</title>
-    <desc>Programación automática</desc>
-  </programme>
 </tv>
