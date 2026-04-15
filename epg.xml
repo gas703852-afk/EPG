@@ -1,92 +1,306 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+
   <channel id="ATV">
     <display-name>ATV</display-name>
   </channel>
 
   <programme start="20260415000000 -0500" stop="20260415010000 -0500" channel="ATV">
     <title>The Walking Dead Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415010000 -0500" stop="20260415023000 -0500" channel="ATV">
     <title>Los hombres de Paco</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415023000 -0500" stop="20260415043000 -0500" channel="ATV">
     <title>Combate</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415043000 -0500" stop="20260415053000 -0500" channel="ATV">
     <title>Aguila roja</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415053000 -0500" stop="20260415103000 -0500" channel="ATV">
     <title>ATV noticias edición matinal</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415103000 -0500" stop="20260415120000 -0500" channel="ATV">
     <title>Así de Simple</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415120000 -0500" stop="20260415140000 -0500" channel="ATV">
     <title>ATV Noticias edición mediodía</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415140000 -0500" stop="20260415150000 -0500" channel="ATV">
     <title>Andrea</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415150000 -0500" stop="20260415160000 -0500" channel="ATV">
     <title>El cuerpo del deseo</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415160000 -0500" stop="20260415170000 -0500" channel="ATV">
     <title>Legado de Amor</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415170000 -0500" stop="20260415180000 -0500" channel="ATV">
     <title>Perdóname</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415180000 -0500" stop="20260415190000 -0500" channel="ATV">
     <title>Corazón abandonado</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415190000 -0500" stop="20260415200000 -0500" channel="ATV">
     <title>Tres hermanas</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415200000 -0500" stop="20260415213000 -0500" channel="ATV">
     <title>Ocurre ahora</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415213000 -0500" stop="20260415230000 -0500" channel="ATV">
     <title>Magaly TV, la firme</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415230000 -0500" stop="20260415235000 -0500" channel="ATV">
     <title>ATV noticias edición central</title>
-    <desc>Programación real</desc>
+    <desc></desc>
   </programme>
 
   <programme start="20260415235000 -0500" stop="20260416000000 -0500" channel="ATV">
     <title>El deportivo en otra cancha</title>
-    <desc>Programación real</desc>
+    <desc></desc>
+  </programme>
+
+  <channel id="Latina HD">
+    <display-name>Latina HD</display-name>
+  </channel>
+
+  <programme start="20260415000000 -0500" stop="20260415003000 -0500" channel="Latina HD">
+    <title>Espacio alquilado (Problemas y soluciones)</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415003000 -0500" stop="20260415013000 -0500" channel="Latina HD">
+    <title>Espacio alquilado (Nutrisa)</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415013000 -0500" stop="20260415014500 -0500" channel="Latina HD">
+    <title>Telebrands</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415014500 -0500" stop="20260415023000 -0500" channel="Latina HD">
+    <title>Golden boy</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415023000 -0500" stop="20260415030000 -0500" channel="Latina HD">
+    <title>El secreto de Sebnem</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415030000 -0500" stop="20260415040000 -0500" channel="Latina HD">
+    <title>Mi mentira más dulce</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415040000 -0500" stop="20260415050000 -0500" channel="Latina HD">
+    <title>Buenas nuevas y malas nuevas</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415050000 -0500" stop="20260415060000 -0500" channel="Latina HD">
+    <title>Latina noticias despierta con matinal</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415060000 -0500" stop="20260415070000 -0500" channel="Latina HD">
+    <title>Latina noticias matinal</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415070000 -0500" stop="20260415090000 -0500" channel="Latina HD">
+    <title>Latina noticias matinal</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415090000 -0500" stop="20260415120000 -0500" channel="Latina HD">
+    <title>Arriba mi gente</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415120000 -0500" stop="20260415150000 -0500" channel="Latina HD">
+    <title>Latina noticias mediodía</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415150000 -0500" stop="20260415160000 -0500" channel="Latina HD">
+    <title>Cuando los ángeles caen</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415160000 -0500" stop="20260415170000 -0500" channel="Latina HD">
+    <title>Dos esposas</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415170000 -0500" stop="20260415180000 -0500" channel="Latina HD">
+    <title>Perdidos de Amor</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415180000 -0500" stop="20260415190000 -0500" channel="Latina HD">
+    <title>Kara no es Sara</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415190000 -0500" stop="20260415200000 -0500" channel="Latina HD">
+    <title>Latina noticias central</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415200000 -0500" stop="20260415210000 -0500" channel="Latina HD">
+    <title>Valentina Valiente</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415210000 -0500" stop="20260415224500 -0500" channel="Latina HD">
+    <title>Yo soy</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415224500 -0500" stop="20260415233000 -0500" channel="Latina HD">
+    <title>Leyla</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415233000 -0500" stop="20260416000000 -0500" channel="Latina HD">
+    <title>Contigo seleccion</title>
+    <desc></desc>
+  </programme>
+
+  <channel id="WILLAX">
+    <display-name>WILLAX</display-name>
+  </channel>
+
+  <programme start="20260415000000 -0500" stop="20260415003500 -0500" channel="WILLAX">
+    <title>Camotillo el tinterillo / Bio nutrition</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415003500 -0500" stop="20260415010000 -0500" channel="WILLAX">
+    <title>UDM</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415010000 -0500" stop="20260415060000 -0500" channel="WILLAX">
+    <title>Nutrisa</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415060000 -0500" stop="20260415090000 -0500" channel="WILLAX">
+    <title>Al Día con Willax</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415090000 -0500" stop="20260415093000 -0500" channel="WILLAX">
+    <title>Bio Nutrition</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415093000 -0500" stop="20260415100000 -0500" channel="WILLAX">
+    <title>Mi Bella Genio</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415100000 -0500" stop="20260415103000 -0500" channel="WILLAX">
+    <title>Infomercial QPR</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415103000 -0500" stop="20260415112500 -0500" channel="WILLAX">
+    <title>New Amsterdam</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415112500 -0500" stop="20260415125000 -0500" channel="WILLAX">
+    <title>Hechos en Willax</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415125000 -0500" stop="20260415134000 -0500" channel="WILLAX">
+    <title>Amor Prohibido</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415134000 -0500" stop="20260415143000 -0500" channel="WILLAX">
+    <title>Caso Cerrado</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415143000 -0500" stop="20260415165500 -0500" channel="WILLAX">
+    <title>Amor y Fuego</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415165500 -0500" stop="20260415180000 -0500" channel="WILLAX">
+    <title>UDM</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415180000 -0500" stop="20260415190000 -0500" channel="WILLAX">
+    <title>Entrometidos</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415190000 -0500" stop="20260415195000 -0500" channel="WILLAX">
+    <title>Willax noticias - Edicion central</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415195000 -0500" stop="20260415195500 -0500" channel="WILLAX">
+    <title>Detrás del debate</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415195500 -0500" stop="20260415205500 -0500" channel="WILLAX">
+    <title>Contracorriente</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415205500 -0500" stop="20260415220000 -0500" channel="WILLAX">
+    <title>Beto a Saber</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415220000 -0500" stop="20260415230000 -0500" channel="WILLAX">
+    <title>Ahora y en la hora</title>
+    <desc></desc>
+  </programme>
+
+  <programme start="20260415230000 -0500" stop="20260416000000 -0500" channel="WILLAX">
+    <title>Habla Chino</title>
+    <desc></desc>
   </programme>
 
 </tv>
