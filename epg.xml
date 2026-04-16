@@ -73,91 +73,91 @@
     <title>El deportivo en otra cancha</title>
   </programme>
 
-  <channel id="Latina">
-    <display-name>Latina</display-name>
+  <channel id="Latina HD">
+    <display-name>Latina HD</display-name>
   </channel>
 
-  <programme start="20260416000000 -0500" stop="20260416003000 -0500" channel="Latina">
+  <programme start="20260416000000 -0500" stop="20260416003000 -0500" channel="Latina HD">
     <title>Espacio alquilado (Problemas y soluciones)</title>
   </programme>
 
-  <programme start="20260416003000 -0500" stop="20260416013000 -0500" channel="Latina">
+  <programme start="20260416003000 -0500" stop="20260416013000 -0500" channel="Latina HD">
     <title>Espacio alquilado (Nutrisa)</title>
   </programme>
 
-  <programme start="20260416013000 -0500" stop="20260416014500 -0500" channel="Latina">
+  <programme start="20260416013000 -0500" stop="20260416014500 -0500" channel="Latina HD">
     <title>Telebrands</title>
   </programme>
 
-  <programme start="20260416014500 -0500" stop="20260416023000 -0500" channel="Latina">
+  <programme start="20260416014500 -0500" stop="20260416023000 -0500" channel="Latina HD">
     <title>Golden boy</title>
   </programme>
 
-  <programme start="20260416023000 -0500" stop="20260416030000 -0500" channel="Latina">
+  <programme start="20260416023000 -0500" stop="20260416030000 -0500" channel="Latina HD">
     <title>El secreto de Sebnem</title>
   </programme>
 
-  <programme start="20260416030000 -0500" stop="20260416040000 -0500" channel="Latina">
+  <programme start="20260416030000 -0500" stop="20260416040000 -0500" channel="Latina HD">
     <title>Mi mentira más dulce</title>
   </programme>
 
-  <programme start="20260416040000 -0500" stop="20260416050000 -0500" channel="Latina">
+  <programme start="20260416040000 -0500" stop="20260416050000 -0500" channel="Latina HD">
     <title>Buenas nuevas y malas nuevas</title>
   </programme>
 
-  <programme start="20260416050000 -0500" stop="20260416060000 -0500" channel="Latina">
+  <programme start="20260416050000 -0500" stop="20260416060000 -0500" channel="Latina HD">
     <title>Latina noticias despierta con matinal</title>
   </programme>
 
-  <programme start="20260416060000 -0500" stop="20260416070000 -0500" channel="Latina">
+  <programme start="20260416060000 -0500" stop="20260416070000 -0500" channel="Latina HD">
     <title>Latina noticias matinal</title>
   </programme>
 
-  <programme start="20260416070000 -0500" stop="20260416090000 -0500" channel="Latina">
+  <programme start="20260416070000 -0500" stop="20260416090000 -0500" channel="Latina HD">
     <title>Latina noticias matinal</title>
   </programme>
 
-  <programme start="20260416090000 -0500" stop="20260416120000 -0500" channel="Latina">
+  <programme start="20260416090000 -0500" stop="20260416120000 -0500" channel="Latina HD">
     <title>Arriba mi gente</title>
   </programme>
 
-  <programme start="20260416120000 -0500" stop="20260416150000 -0500" channel="Latina">
+  <programme start="20260416120000 -0500" stop="20260416150000 -0500" channel="Latina HD">
     <title>Latina noticias mediodía</title>
   </programme>
 
-  <programme start="20260416150000 -0500" stop="20260416160000 -0500" channel="Latina">
+  <programme start="20260416150000 -0500" stop="20260416160000 -0500" channel="Latina HD">
     <title>Cuando los ángeles caen</title>
   </programme>
 
-  <programme start="20260416160000 -0500" stop="20260416170000 -0500" channel="Latina">
+  <programme start="20260416160000 -0500" stop="20260416170000 -0500" channel="Latina HD">
     <title>Dos esposas</title>
   </programme>
 
-  <programme start="20260416170000 -0500" stop="20260416180000 -0500" channel="Latina">
+  <programme start="20260416170000 -0500" stop="20260416180000 -0500" channel="Latina HD">
     <title>Perdidos de Amor</title>
   </programme>
 
-  <programme start="20260416180000 -0500" stop="20260416190000 -0500" channel="Latina">
+  <programme start="20260416180000 -0500" stop="20260416190000 -0500" channel="Latina HD">
     <title>Kara no es Sara</title>
   </programme>
 
-  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="Latina">
+  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="Latina HD">
     <title>Latina noticias central</title>
   </programme>
 
-  <programme start="20260416200000 -0500" stop="20260416210000 -0500" channel="Latina">
+  <programme start="20260416200000 -0500" stop="20260416210000 -0500" channel="Latina HD">
     <title>Valentina Valiente</title>
   </programme>
 
-  <programme start="20260416210000 -0500" stop="20260416224500 -0500" channel="Latina">
+  <programme start="20260416210000 -0500" stop="20260416224500 -0500" channel="Latina HD">
     <title>Yo soy</title>
   </programme>
 
-  <programme start="20260416224500 -0500" stop="20260416233000 -0500" channel="Latina">
+  <programme start="20260416224500 -0500" stop="20260416233000 -0500" channel="Latina HD">
     <title>Leyla</title>
   </programme>
 
-  <programme start="20260416233000 -0500" stop="20260417000000 -0500" channel="Latina">
+  <programme start="20260416233000 -0500" stop="20260417000000 -0500" channel="Latina HD">
     <title>Contigo seleccion</title>
   </programme>
 
@@ -241,63 +241,63 @@
     <title>Habla Chino</title>
   </programme>
 
-  <channel id="HBO">
-    <display-name>HBO</display-name>
+  <channel id="HBO HD">
+    <display-name>HBO HD</display-name>
   </channel>
 
-  <programme start="20260416041100 -0500" stop="20260416062100 -0500" channel="HBO">
+  <programme start="20260416041100 -0500" stop="20260416062100 -0500" channel="HBO HD">
     <title>Jurassic Park Aventura</title>
   </programme>
 
-  <programme start="20260416062100 -0500" stop="20260416080000 -0500" channel="HBO">
+  <programme start="20260416062100 -0500" stop="20260416080000 -0500" channel="HBO HD">
     <title>Los tipos malos 2 The Bad Guys 2 Infantil</title>
   </programme>
 
-  <programme start="20260416080000 -0500" stop="20260416102500 -0500" channel="HBO">
+  <programme start="20260416080000 -0500" stop="20260416102500 -0500" channel="HBO HD">
     <title>Rápidos y furiosos 8 Fast &amp; Furious 8 Acción</title>
   </programme>
 
-  <programme start="20260416102500 -0500" stop="20260416123100 -0500" channel="HBO">
+  <programme start="20260416102500 -0500" stop="20260416123100 -0500" channel="HBO HD">
     <title>El intermediario Relay Suspenso</title>
   </programme>
 
-  <programme start="20260416123100 -0500" stop="20260416143100 -0500" channel="HBO">
+  <programme start="20260416123100 -0500" stop="20260416143100 -0500" channel="HBO HD">
     <title>Una esposa de mentira Just Go with It Comedia</title>
   </programme>
 
-  <programme start="20260416143100 -0500" stop="20260416162100 -0500" channel="HBO">
+  <programme start="20260416143100 -0500" stop="20260416162100 -0500" channel="HBO HD">
     <title>Los tipos malos 2 The Bad Guys 2 Infantil</title>
   </programme>
 
-  <programme start="20260416162100 -0500" stop="20260416190000 -0500" channel="HBO">
+  <programme start="20260416162100 -0500" stop="20260416190000 -0500" channel="HBO HD">
     <title>Duna - Parte dos Dune - Part Two C.Ficción</title>
   </programme>
 
-  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="HBO">
+  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="HBO HD">
     <title>Euphoria Temporada 1 Episodio 9 - Trouble Don&apos;t Last Always Luego de ser abandonada por Jules en la estación de tren y sufrir una recaída en las drogas, Rue celebra la Navidad.</title>
   </programme>
 
-  <programme start="20260416200000 -0500" stop="20260416211100 -0500" channel="HBO">
+  <programme start="20260416200000 -0500" stop="20260416211100 -0500" channel="HBO HD">
     <title>DTF St. Louis Temporada 1 Episodio 7 - Nadie es normal. Solo se ve así desde la vereda de enfrente Con Tiger Tiger fuera de escena, Clark propone un nuevo plan. Tras una serie de revelaciones, Plumb y Homer se ven obligados a cuestionar todo lo que creían saber sobre el caso.</title>
   </programme>
 
-  <programme start="20260416211100 -0500" stop="20260416230600 -0500" channel="HBO">
+  <programme start="20260416211100 -0500" stop="20260416230600 -0500" channel="HBO HD">
     <title>Venom: el último baile Venom: The Last Dance Acción</title>
   </programme>
 
-  <programme start="20260416230600 -0500" stop="20260417004600 -0500" channel="HBO">
+  <programme start="20260416230600 -0500" stop="20260417004600 -0500" channel="HBO HD">
     <title>Posesión infernal: El despertar Evil Dead Rise Terror</title>
   </programme>
 
-  <programme start="20260416004600 -0500" stop="20260416022600 -0500" channel="HBO">
+  <programme start="20260416004600 -0500" stop="20260416022600 -0500" channel="HBO HD">
     <title>Drop: amenaza anónima Drop Drama</title>
   </programme>
 
-  <programme start="20260416022600 -0500" stop="20260416041100 -0500" channel="HBO">
+  <programme start="20260416022600 -0500" stop="20260416041100 -0500" channel="HBO HD">
     <title>Noche de juegos Game Night Comedia</title>
   </programme>
 
-  <programme start="20260416041100 -0500" stop="20260416055600 -0500" channel="HBO">
+  <programme start="20260416041100 -0500" stop="20260416055600 -0500" channel="HBO HD">
     <title>Agente Salt Salt Acción</title>
   </programme>
 
