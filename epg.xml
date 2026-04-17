@@ -5,159 +5,227 @@
     <display-name>ATV</display-name>
   </channel>
 
-  <programme start="20260416000000 -0500" stop="20260416010000 -0500" channel="ATV">
+  <programme start="20260417000000 -0500" stop="20260417010000 -0500" channel="ATV">
     <title>The Walking Dead Serie que presenta la aclamada serie de historietas de Robert Kirkman con el mismo nombre donde un Sheriff se ve en un mundo lleno de Zombies.</title>
   </programme>
 
-  <programme start="20260416010000 -0500" stop="20260416023000 -0500" channel="ATV">
+  <programme start="20260417010000 -0500" stop="20260417023000 -0500" channel="ATV">
     <title>Los hombres de Paco</title>
   </programme>
 
-  <programme start="20260416023000 -0500" stop="20260416043000 -0500" channel="ATV">
+  <programme start="20260417023000 -0500" stop="20260417043000 -0500" channel="ATV">
     <title>Combate</title>
   </programme>
 
-  <programme start="20260416043000 -0500" stop="20260416053000 -0500" channel="ATV">
+  <programme start="20260417043000 -0500" stop="20260417053000 -0500" channel="ATV">
     <title>Aguila roja</title>
   </programme>
 
-  <programme start="20260416053000 -0500" stop="20260416103000 -0500" channel="ATV">
+  <programme start="20260417053000 -0500" stop="20260417103000 -0500" channel="ATV">
     <title>ATV noticias edición matinal</title>
   </programme>
 
-  <programme start="20260416103000 -0500" stop="20260416120000 -0500" channel="ATV">
+  <programme start="20260417103000 -0500" stop="20260417120000 -0500" channel="ATV">
     <title>Así de Simple</title>
   </programme>
 
-  <programme start="20260416120000 -0500" stop="20260416140000 -0500" channel="ATV">
+  <programme start="20260417120000 -0500" stop="20260417140000 -0500" channel="ATV">
     <title>ATV Noticias edición mediodía</title>
   </programme>
 
-  <programme start="20260416140000 -0500" stop="20260416150000 -0500" channel="ATV">
+  <programme start="20260417140000 -0500" stop="20260417150000 -0500" channel="ATV">
     <title>Andrea</title>
   </programme>
 
-  <programme start="20260416150000 -0500" stop="20260416160000 -0500" channel="ATV">
+  <programme start="20260417150000 -0500" stop="20260417160000 -0500" channel="ATV">
     <title>El cuerpo del deseo</title>
   </programme>
 
-  <programme start="20260416160000 -0500" stop="20260416170000 -0500" channel="ATV">
+  <programme start="20260417160000 -0500" stop="20260417170000 -0500" channel="ATV">
     <title>Legado de Amor</title>
   </programme>
 
-  <programme start="20260416170000 -0500" stop="20260416180000 -0500" channel="ATV">
+  <programme start="20260417170000 -0500" stop="20260417180000 -0500" channel="ATV">
     <title>Perdóname</title>
   </programme>
 
-  <programme start="20260416180000 -0500" stop="20260416190000 -0500" channel="ATV">
+  <programme start="20260417180000 -0500" stop="20260417190000 -0500" channel="ATV">
     <title>Corazón abandonado</title>
   </programme>
 
-  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="ATV">
+  <programme start="20260417190000 -0500" stop="20260417200000 -0500" channel="ATV">
     <title>Tres hermanas</title>
   </programme>
 
-  <programme start="20260416200000 -0500" stop="20260416213000 -0500" channel="ATV">
+  <programme start="20260417200000 -0500" stop="20260417213000 -0500" channel="ATV">
     <title>Ocurre ahora</title>
   </programme>
 
-  <programme start="20260416213000 -0500" stop="20260416230000 -0500" channel="ATV">
+  <programme start="20260417213000 -0500" stop="20260417230000 -0500" channel="ATV">
     <title>Magaly TV, la firme</title>
   </programme>
 
-  <programme start="20260416230000 -0500" stop="20260416235000 -0500" channel="ATV">
+  <programme start="20260417230000 -0500" stop="20260417235000 -0500" channel="ATV">
     <title>ATV noticias edición central</title>
   </programme>
 
-  <programme start="20260416235000 -0500" stop="20260417000000 -0500" channel="ATV">
+  <programme start="20260417235000 -0500" stop="20260418000000 -0500" channel="ATV">
     <title>El deportivo en otra cancha</title>
+  </programme>
+
+  <channel id="Panamericana">
+    <display-name>Panamericana</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417003000 -0500" channel="Panamericana">
+    <title>Infieles</title>
+  </programme>
+
+  <programme start="20260417003000 -0500" stop="20260417050000 -0500" channel="Panamericana">
+    <title>Geoherbal</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417053000 -0500" channel="Panamericana">
+    <title>Combutters</title>
+  </programme>
+
+  <programme start="20260417053000 -0500" stop="20260417063000 -0500" channel="Panamericana">
+    <title>Buenos días, Perú</title>
+  </programme>
+
+  <programme start="20260417063000 -0500" stop="20260417093000 -0500" channel="Panamericana">
+    <title>Buenos días, Perú</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417103000 -0500" channel="Panamericana">
+    <title>Doctores de guardia</title>
+  </programme>
+
+  <programme start="20260417103000 -0500" stop="20260417113000 -0500" channel="Panamericana">
+    <title>Detrás de cámaras</title>
+  </programme>
+
+  <programme start="20260417113000 -0500" stop="20260417120000 -0500" channel="Panamericana">
+    <title>Pulso Electoral</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417150000 -0500" channel="Panamericana">
+    <title>24 Horas</title>
+  </programme>
+
+  <programme start="20260417150000 -0500" stop="20260417164500 -0500" channel="Panamericana">
+    <title>La calle no calla</title>
+  </programme>
+
+  <programme start="20260417164500 -0500" stop="20260417174000 -0500" channel="Panamericana">
+    <title>Walker Ranger de Texas</title>
+  </programme>
+
+  <programme start="20260417174000 -0500" stop="20260417192500 -0500" channel="Panamericana">
+    <title>La familia Ingalls</title>
+  </programme>
+
+  <programme start="20260417192500 -0500" stop="20260417202500 -0500" channel="Panamericana">
+    <title>La verdad a prueba</title>
+  </programme>
+
+  <programme start="20260417202500 -0500" stop="20260417215500 -0500" channel="Panamericana">
+    <title>24 horas</title>
+  </programme>
+
+  <programme start="20260417215500 -0500" stop="20260417231000 -0500" channel="Panamericana">
+    <title>La granja VIP</title>
+  </programme>
+
+  <programme start="20260417231000 -0500" stop="20260418000000 -0500" channel="Panamericana">
+    <title>Combutters</title>
   </programme>
 
   <channel id="Latina HD">
     <display-name>Latina HD</display-name>
   </channel>
 
-  <programme start="20260416000000 -0500" stop="20260416003000 -0500" channel="Latina HD">
+  <programme start="20260417000000 -0500" stop="20260417003000 -0500" channel="Latina HD">
     <title>Espacio alquilado (Problemas y soluciones)</title>
   </programme>
 
-  <programme start="20260416003000 -0500" stop="20260416013000 -0500" channel="Latina HD">
+  <programme start="20260417003000 -0500" stop="20260417013000 -0500" channel="Latina HD">
     <title>Espacio alquilado (Nutrisa)</title>
   </programme>
 
-  <programme start="20260416013000 -0500" stop="20260416014500 -0500" channel="Latina HD">
+  <programme start="20260417013000 -0500" stop="20260417014500 -0500" channel="Latina HD">
     <title>Telebrands</title>
   </programme>
 
-  <programme start="20260416014500 -0500" stop="20260416023000 -0500" channel="Latina HD">
+  <programme start="20260417014500 -0500" stop="20260417023000 -0500" channel="Latina HD">
     <title>Golden boy</title>
   </programme>
 
-  <programme start="20260416023000 -0500" stop="20260416030000 -0500" channel="Latina HD">
+  <programme start="20260417023000 -0500" stop="20260417030000 -0500" channel="Latina HD">
     <title>El secreto de Sebnem</title>
   </programme>
 
-  <programme start="20260416030000 -0500" stop="20260416040000 -0500" channel="Latina HD">
+  <programme start="20260417030000 -0500" stop="20260417040000 -0500" channel="Latina HD">
     <title>Mi mentira más dulce</title>
   </programme>
 
-  <programme start="20260416040000 -0500" stop="20260416050000 -0500" channel="Latina HD">
+  <programme start="20260417040000 -0500" stop="20260417050000 -0500" channel="Latina HD">
     <title>Buenas nuevas y malas nuevas</title>
   </programme>
 
-  <programme start="20260416050000 -0500" stop="20260416060000 -0500" channel="Latina HD">
+  <programme start="20260417050000 -0500" stop="20260417060000 -0500" channel="Latina HD">
     <title>Latina noticias despierta con matinal</title>
   </programme>
 
-  <programme start="20260416060000 -0500" stop="20260416070000 -0500" channel="Latina HD">
+  <programme start="20260417060000 -0500" stop="20260417070000 -0500" channel="Latina HD">
     <title>Latina noticias matinal</title>
   </programme>
 
-  <programme start="20260416070000 -0500" stop="20260416090000 -0500" channel="Latina HD">
+  <programme start="20260417070000 -0500" stop="20260417090000 -0500" channel="Latina HD">
     <title>Latina noticias matinal</title>
   </programme>
 
-  <programme start="20260416090000 -0500" stop="20260416120000 -0500" channel="Latina HD">
+  <programme start="20260417090000 -0500" stop="20260417120000 -0500" channel="Latina HD">
     <title>Arriba mi gente</title>
   </programme>
 
-  <programme start="20260416120000 -0500" stop="20260416150000 -0500" channel="Latina HD">
+  <programme start="20260417120000 -0500" stop="20260417150000 -0500" channel="Latina HD">
     <title>Latina noticias mediodía</title>
   </programme>
 
-  <programme start="20260416150000 -0500" stop="20260416160000 -0500" channel="Latina HD">
+  <programme start="20260417150000 -0500" stop="20260417160000 -0500" channel="Latina HD">
     <title>Cuando los ángeles caen</title>
   </programme>
 
-  <programme start="20260416160000 -0500" stop="20260416170000 -0500" channel="Latina HD">
+  <programme start="20260417160000 -0500" stop="20260417170000 -0500" channel="Latina HD">
     <title>Dos esposas</title>
   </programme>
 
-  <programme start="20260416170000 -0500" stop="20260416180000 -0500" channel="Latina HD">
+  <programme start="20260417170000 -0500" stop="20260417180000 -0500" channel="Latina HD">
     <title>Perdidos de Amor</title>
   </programme>
 
-  <programme start="20260416180000 -0500" stop="20260416190000 -0500" channel="Latina HD">
+  <programme start="20260417180000 -0500" stop="20260417190000 -0500" channel="Latina HD">
     <title>Kara no es Sara</title>
   </programme>
 
-  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="Latina HD">
+  <programme start="20260417190000 -0500" stop="20260417200000 -0500" channel="Latina HD">
     <title>Latina noticias central</title>
   </programme>
 
-  <programme start="20260416200000 -0500" stop="20260416210000 -0500" channel="Latina HD">
+  <programme start="20260417200000 -0500" stop="20260417210000 -0500" channel="Latina HD">
     <title>Valentina Valiente</title>
   </programme>
 
-  <programme start="20260416210000 -0500" stop="20260416224500 -0500" channel="Latina HD">
+  <programme start="20260417210000 -0500" stop="20260417224500 -0500" channel="Latina HD">
     <title>Yo soy</title>
   </programme>
 
-  <programme start="20260416224500 -0500" stop="20260416233000 -0500" channel="Latina HD">
+  <programme start="20260417224500 -0500" stop="20260417233000 -0500" channel="Latina HD">
     <title>Leyla</title>
   </programme>
 
-  <programme start="20260416233000 -0500" stop="20260417000000 -0500" channel="Latina HD">
+  <programme start="20260417233000 -0500" stop="20260418000000 -0500" channel="Latina HD">
     <title>Contigo seleccion</title>
   </programme>
 
@@ -165,140 +233,3388 @@
     <display-name>WILLAX</display-name>
   </channel>
 
-  <programme start="20260416000000 -0500" stop="20260416003500 -0500" channel="WILLAX">
+  <programme start="20260417000000 -0500" stop="20260417003500 -0500" channel="WILLAX">
     <title>Camotillo el tinterillo / Bio nutrition</title>
   </programme>
 
-  <programme start="20260416003500 -0500" stop="20260416010000 -0500" channel="WILLAX">
+  <programme start="20260417003500 -0500" stop="20260417010000 -0500" channel="WILLAX">
     <title>UDM</title>
   </programme>
 
-  <programme start="20260416010000 -0500" stop="20260416060000 -0500" channel="WILLAX">
+  <programme start="20260417010000 -0500" stop="20260417060000 -0500" channel="WILLAX">
     <title>Nutrisa</title>
   </programme>
 
-  <programme start="20260416060000 -0500" stop="20260416090000 -0500" channel="WILLAX">
+  <programme start="20260417060000 -0500" stop="20260417090000 -0500" channel="WILLAX">
     <title>Al Día con Willax</title>
   </programme>
 
-  <programme start="20260416090000 -0500" stop="20260416093000 -0500" channel="WILLAX">
+  <programme start="20260417090000 -0500" stop="20260417093000 -0500" channel="WILLAX">
     <title>Bio Nutrition</title>
   </programme>
 
-  <programme start="20260416093000 -0500" stop="20260416103000 -0500" channel="WILLAX">
+  <programme start="20260417093000 -0500" stop="20260417103000 -0500" channel="WILLAX">
     <title>El Doctor Del Pueblo</title>
   </programme>
 
-  <programme start="20260416103000 -0500" stop="20260416112500 -0500" channel="WILLAX">
+  <programme start="20260417103000 -0500" stop="20260417113000 -0500" channel="WILLAX">
     <title>New Amsterdam</title>
   </programme>
 
-  <programme start="20260416112500 -0500" stop="20260416125000 -0500" channel="WILLAX">
+  <programme start="20260417113000 -0500" stop="20260417125000 -0500" channel="WILLAX">
     <title>Hechos en Willax</title>
   </programme>
 
-  <programme start="20260416125000 -0500" stop="20260416134000 -0500" channel="WILLAX">
+  <programme start="20260417125000 -0500" stop="20260417134000 -0500" channel="WILLAX">
     <title>Amor Prohibido</title>
   </programme>
 
-  <programme start="20260416134000 -0500" stop="20260416143000 -0500" channel="WILLAX">
+  <programme start="20260417134000 -0500" stop="20260417143000 -0500" channel="WILLAX">
     <title>Caso Cerrado</title>
   </programme>
 
-  <programme start="20260416143000 -0500" stop="20260416165500 -0500" channel="WILLAX">
+  <programme start="20260417143000 -0500" stop="20260417165500 -0500" channel="WILLAX">
     <title>Amor y Fuego</title>
   </programme>
 
-  <programme start="20260416165500 -0500" stop="20260416180000 -0500" channel="WILLAX">
+  <programme start="20260417165500 -0500" stop="20260417180000 -0500" channel="WILLAX">
     <title>UDM</title>
   </programme>
 
-  <programme start="20260416180000 -0500" stop="20260416190000 -0500" channel="WILLAX">
+  <programme start="20260417180000 -0500" stop="20260417190000 -0500" channel="WILLAX">
     <title>Entrometidos</title>
   </programme>
 
-  <programme start="20260416190000 -0500" stop="20260416195000 -0500" channel="WILLAX">
+  <programme start="20260417190000 -0500" stop="20260417195000 -0500" channel="WILLAX">
     <title>Willax noticias - Edicion central</title>
   </programme>
 
-  <programme start="20260416195000 -0500" stop="20260416195500 -0500" channel="WILLAX">
+  <programme start="20260417195000 -0500" stop="20260417195500 -0500" channel="WILLAX">
     <title>Willax noticias - Edicion central</title>
   </programme>
 
-  <programme start="20260416195500 -0500" stop="20260416205500 -0500" channel="WILLAX">
+  <programme start="20260417195500 -0500" stop="20260417205500 -0500" channel="WILLAX">
     <title>Contracorriente</title>
   </programme>
 
-  <programme start="20260416205500 -0500" stop="20260416220000 -0500" channel="WILLAX">
+  <programme start="20260417205500 -0500" stop="20260417220000 -0500" channel="WILLAX">
     <title>Beto a Saber</title>
   </programme>
 
-  <programme start="20260416220000 -0500" stop="20260416230000 -0500" channel="WILLAX">
+  <programme start="20260417220000 -0500" stop="20260417230000 -0500" channel="WILLAX">
     <title>Ahora y en la hora</title>
   </programme>
 
-  <programme start="20260416230000 -0500" stop="20260417000000 -0500" channel="WILLAX">
+  <programme start="20260417230000 -0500" stop="20260418000000 -0500" channel="WILLAX">
     <title>Habla Chino</title>
+  </programme>
+
+  <channel id="America TV HD">
+    <display-name>America TV HD</display-name>
+  </channel>
+
+  <programme start="20260417234500 -0500" stop="20260418003000 -0500" channel="America TV HD">
+    <title>Desvelados por el Mundial</title>
+  </programme>
+
+  <programme start="20260417003000 -0500" stop="20260417013000 -0500" channel="America TV HD">
+    <title>Doménica Montero</title>
+  </programme>
+
+  <programme start="20260417013000 -0500" stop="20260417021000 -0500" channel="America TV HD">
+    <title>Teresa</title>
+  </programme>
+
+  <programme start="20260417021000 -0500" stop="20260417023000 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417023000 -0500" stop="20260417033000 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417033000 -0500" stop="20260417050000 -0500" channel="America TV HD">
+    <title>Mande quien mande</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417051600 -0500" channel="America TV HD">
+    <title>América Noticias Primera Edición</title>
+  </programme>
+
+  <programme start="20260417051600 -0500" stop="20260417070000 -0500" channel="America TV HD">
+    <title>América Noticias Primera Edición</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417085000 -0500" channel="America TV HD">
+    <title>América Noticias Primera Edición</title>
+  </programme>
+
+  <programme start="20260417085000 -0500" stop="20260417091000 -0500" channel="America TV HD">
+    <title>América Deportes</title>
+  </programme>
+
+  <programme start="20260417091000 -0500" stop="20260417093000 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417110000 -0500" channel="America TV HD">
+    <title>América hoy</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417120000 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417123500 -0500" channel="America TV HD">
+    <title>América Noticias Edición Mediodía</title>
+  </programme>
+
+  <programme start="20260417123500 -0500" stop="20260417124500 -0500" channel="America TV HD">
+    <title>América Deportes</title>
+  </programme>
+
+  <programme start="20260417124500 -0500" stop="20260417130000 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417134000 -0500" channel="America TV HD">
+    <title>Teresa</title>
+  </programme>
+
+  <programme start="20260417134000 -0500" stop="20260417151000 -0500" channel="America TV HD">
+    <title>Mande quien mande</title>
+  </programme>
+
+  <programme start="20260417151000 -0500" stop="20260417160000 -0500" channel="America TV HD">
+    <title>Al fondo hay sitio</title>
+  </programme>
+
+  <programme start="20260417160000 -0500" stop="20260417170000 -0500" channel="America TV HD">
+    <title>Doménica Montero</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417180000 -0500" channel="America TV HD">
+    <title>El Chavo del Ocho Las aventuras del chavo, un niño de 8 años y sus amigos, Kiko, la Chilindrina, Ñoño que viven en la misma vecindad.</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417185000 -0500" channel="America TV HD">
+    <title>Los milagros de la rosa, Perú</title>
+  </programme>
+
+  <programme start="20260417185000 -0500" stop="20260417193000 -0500" channel="America TV HD">
+    <title>Los milagros de la rosa, Perú</title>
+  </programme>
+
+  <programme start="20260417193000 -0500" stop="20260417210000 -0500" channel="America TV HD">
+    <title>Esto es guerra</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417220000 -0500" channel="America TV HD">
+    <title>Al fondo hay sitio</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417230000 -0500" channel="America TV HD">
+    <title>Señora del destino</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260417231700 -0500" channel="America TV HD">
+    <title>América noticias Edición central</title>
+  </programme>
+
+  <programme start="20260417231700 -0500" stop="20260417232400 -0500" channel="America TV HD">
+    <title>América Deportes</title>
+  </programme>
+
+  <programme start="20260417232400 -0500" stop="20260417232700 -0500" channel="America TV HD">
+    <title>América noticias Edición central</title>
+  </programme>
+
+  <programme start="20260417232700 -0500" stop="20260417234500 -0500" channel="America TV HD">
+    <title>America espectaculos</title>
+  </programme>
+
+  <programme start="20260417234500 -0500" stop="20260418003000 -0500" channel="America TV HD">
+    <title>Desvelados por el Mundial</title>
+  </programme>
+
+  <channel id="ESPN HD">
+    <display-name>ESPN HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417010000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417020000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417030000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417030000 -0500" stop="20260417040000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417050000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417060000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417070000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417080000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417090000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417100000 -0500" channel="ESPN HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417110000 -0500" channel="ESPN HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417120000 -0500" channel="ESPN HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417130000 -0500" channel="ESPN HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417133000 -0500" channel="ESPN HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417133000 -0500" stop="20260417154500 -0500" channel="ESPN HD">
+    <title>Fútbol Serie A</title>
+  </programme>
+
+  <programme start="20260417154500 -0500" stop="20260417170000 -0500" channel="ESPN HD">
+    <title>Balón Dividido</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417190000 -0500" channel="ESPN HD">
+    <title>ESPN F360</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417210000 -0500" channel="ESPN HD">
+    <title>SportsCenter Colombia Tarde</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417230000 -0500" channel="ESPN HD">
+    <title>ESPN F90</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260418000000 -0500" channel="ESPN HD">
+    <title>SportsCenter Andina Noche</title>
+  </programme>
+
+  <channel id="ESPN 2 HD">
+    <display-name>ESPN 2 HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417010000 -0500" channel="ESPN 2 HD">
+    <title>Futbol Picante</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417020000 -0500" channel="ESPN 2 HD">
+    <title>ESPN FC</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417030000 -0500" channel="ESPN 2 HD">
+    <title>Futbol Picante</title>
+  </programme>
+
+  <programme start="20260417030000 -0500" stop="20260417040000 -0500" channel="ESPN 2 HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417060000 -0500" channel="ESPN 2 HD">
+    <title>NCAA Women&apos;s College Gymnastics Championship Afternoon Session</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417070000 -0500" channel="ESPN 2 HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417080000 -0500" channel="ESPN 2 HD">
+    <title>SportsCenter El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417090000 -0500" channel="ESPN 2 HD">
+    <title>ESPN FC</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417110000 -0500" channel="ESPN 2 HD">
+    <title>Liverpool vs. Paris Saint-Germain UEFA Champions League</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417130000 -0500" channel="ESPN 2 HD">
+    <title>NCAA Women&apos;s College Gymnastics Championship Evening Session</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417170000 -0500" channel="ESPN 2 HD">
+    <title>Segunda ronda PGA Tour Golf - RBC Heritage</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417190000 -0500" channel="ESPN 2 HD">
+    <title>Trinidad y Tobago vs. El Salvador CONCACAF W</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417210000 -0500" channel="ESPN 2 HD">
+    <title>Haití vs. Dominican Republic CONCACAF W</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417215500 -0500" channel="ESPN 2 HD">
+    <title>El show de la F1</title>
+  </programme>
+
+  <programme start="20260417215500 -0500" stop="20260418000000 -0500" channel="ESPN 2 HD">
+    <title>Dorados de Sinaloa vs. Tapatío CD Liga Expansión MX</title>
+  </programme>
+
+  <channel id="ESPN 3 HD">
+    <display-name>ESPN 3 HD</display-name>
+  </channel>
+
+  <programme start="20260417230000 -0500" stop="20260418010000 -0500" channel="ESPN 3 HD">
+    <title>Masters de Montecarlo</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417020000 -0500" channel="ESPN 3 HD">
+    <title>ESPN Compact</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417040000 -0500" channel="ESPN 3 HD">
+    <title>Fútbol UEFA Europa League</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417043000 -0500" channel="ESPN 3 HD">
+    <title>Aguas Arriba</title>
+  </programme>
+
+  <programme start="20260417043000 -0500" stop="20260417050000 -0500" channel="ESPN 3 HD">
+    <title>Inside Serie A</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417060000 -0500" channel="ESPN 3 HD">
+    <title>Show de Equitación</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417080000 -0500" channel="ESPN 3 HD">
+    <title>Fútbol UEFA Europa League</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417100000 -0500" channel="ESPN 3 HD">
+    <title>CONMEBOL Copa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417120000 -0500" channel="ESPN 3 HD">
+    <title>CONMEBOL Copa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417123000 -0500" channel="ESPN 3 HD">
+    <title>Inside Serie A</title>
+  </programme>
+
+  <programme start="20260417123000 -0500" stop="20260417130000 -0500" channel="ESPN 3 HD">
+    <title>Acción de la NBA</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417133000 -0500" channel="ESPN 3 HD">
+    <title>Aguas Arriba</title>
+  </programme>
+
+  <programme start="20260417133000 -0500" stop="20260417154000 -0500" channel="ESPN 3 HD">
+    <title>Fútbol Ligue 1</title>
+  </programme>
+
+  <programme start="20260417154000 -0500" stop="20260417155500 -0500" channel="ESPN 3 HD">
+    <title>Lanús campeón Recopa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417155500 -0500" stop="20260417170000 -0500" channel="ESPN 3 HD">
+    <title>Kings League Américas</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417175500 -0500" channel="ESPN 3 HD">
+    <title>Show de Equitación</title>
+  </programme>
+
+  <programme start="20260417175500 -0500" stop="20260417200000 -0500" channel="ESPN 3 HD">
+    <title>Super Rugby Américas</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417210000 -0500" channel="ESPN 3 HD">
+    <title>ESPN Compact</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417220000 -0500" channel="ESPN 3 HD">
+    <title>ESPN Compact</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417223000 -0500" channel="ESPN 3 HD">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+
+  <programme start="20260417223000 -0500" stop="20260417230000 -0500" channel="ESPN 3 HD">
+    <title>Premier League Preview</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260418010000 -0500" channel="ESPN 3 HD">
+    <title>Fútbol Ligue 1</title>
+  </programme>
+
+  <channel id="ESPN 4 HD">
+    <display-name>ESPN 4 HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417020000 -0500" channel="ESPN 4 HD">
+    <title>Gimnasia Universitaria Femenina NCAA Championships: Sesión vespertina</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417040000 -0500" channel="ESPN 4 HD">
+    <title>Gimnasia Universitaria Femenina NCAA Championships: Sesión nocturna</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417060000 -0500" channel="ESPN 4 HD">
+    <title>Golf PGA Tour RBC Heritage, ronda 1</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417080000 -0500" channel="ESPN 4 HD">
+    <title>CONMEBOL Copa Sudamericana Cienciano vs. Academia Puerto Cabello</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417083000 -0500" channel="ESPN 4 HD">
+    <title>Aguas Arriba</title>
+  </programme>
+
+  <programme start="20260417083000 -0500" stop="20260417093000 -0500" channel="ESPN 4 HD">
+    <title>Show de Equitación Temporada 2026 | Episodio 17 Gran Premio CAE</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417103000 -0500" channel="ESPN 4 HD">
+    <title>El show de la fórmula 1</title>
+  </programme>
+
+  <programme start="20260417103000 -0500" stop="20260417130000 -0500" channel="ESPN 4 HD">
+    <title>Hockey NHL St. Louis Blues vs. Utah Mammoth</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417170000 -0500" channel="ESPN 4 HD">
+    <title>Golf PGA Tour RBC Heritage, segunda ronda</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417173000 -0500" channel="ESPN 4 HD">
+    <title>Acción de la NBA</title>
+  </programme>
+
+  <programme start="20260417173000 -0500" stop="20260417180000 -0500" channel="ESPN 4 HD">
+    <title>Aguas Arriba</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417200000 -0500" channel="ESPN 4 HD">
+    <title>Fútbol Serie A Inter de Milán vs. Cagliari</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417210000 -0500" channel="ESPN 4 HD">
+    <title>El show de la fórmula 1</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417220000 -0500" channel="ESPN 4 HD">
+    <title>Show de Equitación Temporada 2026 | Episodio 17 Gran Premio CAE</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417230000 -0500" channel="ESPN 4 HD">
+    <title>Kings League Américas Krü FC vs. Club de Cuervos</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260418010000 -0500" channel="ESPN 4 HD">
+    <title>Super Rugby Américas Pampas XV vs. Yacaré XV</title>
+  </programme>
+
+  <channel id="ESPN 6 HD">
+    <display-name>ESPN 6 HD</display-name>
+  </channel>
+
+  <programme start="20260417233000 -0500" stop="20260418020000 -0500" channel="ESPN 6 HD">
+    <title>Hockey NHL</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417040000 -0500" channel="ESPN 6 HD">
+    <title>Golf PGA Tour</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417060000 -0500" channel="ESPN 6 HD">
+    <title>ESPN Knockout</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417063000 -0500" channel="ESPN 6 HD">
+    <title>Ciclismo UCI World Tour masculino</title>
+  </programme>
+
+  <programme start="20260417063000 -0500" stop="20260417070000 -0500" channel="ESPN 6 HD">
+    <title>EFL Highlights</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417080000 -0500" channel="ESPN 6 HD">
+    <title>Dutch League Highlights</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417083000 -0500" channel="ESPN 6 HD">
+    <title>Moto Grand Prix F.I.M. Highlights</title>
+  </programme>
+
+  <programme start="20260417083000 -0500" stop="20260417090000 -0500" channel="ESPN 6 HD">
+    <title>ATP World Tour Weekly</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417093000 -0500" channel="ESPN 6 HD">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417100000 -0500" channel="ESPN 6 HD">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417120000 -0500" channel="ESPN 6 HD">
+    <title>Masters de Montecarlo</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417140000 -0500" channel="ESPN 6 HD">
+    <title>Ciclismo UCI World Tour masculino</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417150000 -0500" channel="ESPN 6 HD">
+    <title>Dutch League Highlights</title>
+  </programme>
+
+  <programme start="20260417150000 -0500" stop="20260417153000 -0500" channel="ESPN 6 HD">
+    <title>EFL Highlights</title>
+  </programme>
+
+  <programme start="20260417153000 -0500" stop="20260417180000 -0500" channel="ESPN 6 HD">
+    <title>Hockey NHL</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417200000 -0500" channel="ESPN 6 HD">
+    <title>Fútbol UEFA Champions League</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417220000 -0500" channel="ESPN 6 HD">
+    <title>Fútbol UEFA Champions League</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260418000000 -0500" channel="ESPN 6 HD">
+    <title>Golf PGA Tour</title>
+  </programme>
+
+  <channel id="ESPN 7 HD">
+    <display-name>ESPN 7 HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417003000 -0500" channel="ESPN 7 HD">
+    <title>MotoGP: Resúmenes</title>
+  </programme>
+
+  <programme start="20260417003000 -0500" stop="20260417010000 -0500" channel="ESPN 7 HD">
+    <title>ATP World Tour Weekly</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417020000 -0500" channel="ESPN 7 HD">
+    <title>Dutch League Highlights</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417050000 -0500" channel="ESPN 7 HD">
+    <title>Béisbol MLB</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417073000 -0500" channel="ESPN 7 HD">
+    <title>Hockey NHL</title>
+  </programme>
+
+  <programme start="20260417073000 -0500" stop="20260417080000 -0500" channel="ESPN 7 HD">
+    <title>Bundesliga Preview Show</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417100000 -0500" channel="ESPN 7 HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417120000 -0500" channel="ESPN 7 HD">
+    <title>ESPN Knockout</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417140000 -0500" channel="ESPN 7 HD">
+    <title>FIFA Eliminatorias de la Copa Mundial Femenina 2027</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417160000 -0500" channel="ESPN 7 HD">
+    <title>Fútbol UEFA Champions League</title>
+  </programme>
+
+  <programme start="20260417160000 -0500" stop="20260417180000 -0500" channel="ESPN 7 HD">
+    <title>Fútbol UEFA Champions League</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417200000 -0500" channel="ESPN 7 HD">
+    <title>Fútbol Turco Superliga</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417220000 -0500" channel="ESPN 7 HD">
+    <title>ESPN Knockout</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417223000 -0500" channel="ESPN 7 HD">
+    <title>MotoGP: Resúmenes</title>
+  </programme>
+
+  <programme start="20260417223000 -0500" stop="20260417230000 -0500" channel="ESPN 7 HD">
+    <title>ATP World Tour Weekly</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260418000000 -0500" channel="ESPN 7 HD">
+    <title>Dutch League Highlights</title>
+  </programme>
+
+  <channel id="ESPN Premium HD">
+    <display-name>ESPN Premium HD</display-name>
+  </channel>
+
+  <programme start="20260417230000 -0500" stop="20260418010000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417020000 -0500" channel="ESPN Premium HD">
+    <title>UEFA Europa League &amp; UEFA Conference League</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417040000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417060000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417070000 -0500" channel="ESPN Premium HD">
+    <title>El show de la fórmula 1</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417080000 -0500" channel="ESPN Premium HD">
+    <title>ESPN Compact</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417100000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417120000 -0500" channel="ESPN Premium HD">
+    <title>CONMEBOL Copa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417140000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417150000 -0500" channel="ESPN Premium HD">
+    <title>UEFA Europa League &amp; UEFA Conference League</title>
+  </programme>
+
+  <programme start="20260417150000 -0500" stop="20260417170000 -0500" channel="ESPN Premium HD">
+    <title>CONMEBOL Copa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417190000 -0500" channel="ESPN Premium HD">
+    <title>CONMEBOL Copa Sudamericana</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417210000 -0500" channel="ESPN Premium HD">
+    <title>Fútbol Conmebol Copa Libertadores</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417213000 -0500" channel="ESPN Premium HD">
+    <title>UEFA Champions League Weekly</title>
+  </programme>
+
+  <programme start="20260417213000 -0500" stop="20260417223000 -0500" channel="ESPN Premium HD">
+    <title>UEFA Europa League &amp; UEFA Conference League</title>
+  </programme>
+
+  <programme start="20260417223000 -0500" stop="20260417230000 -0500" channel="ESPN Premium HD">
+    <title>Bundesliga Preview Show</title>
+  </programme>
+
+  <programme start="20260417230000 -0500" stop="20260417233000 -0500" channel="ESPN Premium HD">
+    <title>EFL Highlights</title>
+  </programme>
+
+  <programme start="20260417233000 -0500" stop="20260418000000 -0500" channel="ESPN Premium HD">
+    <title>UEFA Champions League Highlights</title>
+  </programme>
+
+  <channel id="Discovery Kids HD">
+    <display-name>Discovery Kids HD</display-name>
+  </channel>
+
+  <programme start="20260417234700 -0500" stop="20260418001100 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Perdidos en el laberinto / Misión ninja / ¡Shhh! / Comparte tu música, baby / Buscando a Do</title>
+  </programme>
+
+  <programme start="20260417001100 -0500" stop="20260417003500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Regalo misterioso / El pasito de Wat / Espionaje en la guardería / Día del Legado / Mundo A</title>
+  </programme>
+
+  <programme start="20260417003500 -0500" stop="20260417004000 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers El desafío de Los Mini</title>
+  </programme>
+
+  <programme start="20260417004000 -0500" stop="20260417010200 -0500" channel="Discovery Kids HD">
+    <title>Jorge, el curioso Encerrado / Traje de corteza</title>
+  </programme>
+
+  <programme start="20260417010200 -0500" stop="20260417011300 -0500" channel="Discovery Kids HD">
+    <title>Underdogs United El peor deporte del mundo</title>
+  </programme>
+
+  <programme start="20260417011300 -0500" stop="20260417012400 -0500" channel="Discovery Kids HD">
+    <title>Underdogs United Terapia de grupo</title>
+  </programme>
+
+  <programme start="20260417012400 -0500" stop="20260417013600 -0500" channel="Discovery Kids HD">
+    <title>Underdogs United Un problema de gravedad</title>
+  </programme>
+
+  <programme start="20260417013600 -0500" stop="20260417014800 -0500" channel="Discovery Kids HD">
+    <title>Underdogs United Amigos impensados</title>
+  </programme>
+
+  <programme start="20260417014800 -0500" stop="20260417020000 -0500" channel="Discovery Kids HD">
+    <title>Las aventuras de Dog y Pony Aprendiendo a cultivar</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417021200 -0500" channel="Discovery Kids HD">
+    <title>Las aventuras de Dog y Pony Bienvenidos a la casa club</title>
+  </programme>
+
+  <programme start="20260417021200 -0500" stop="20260417022400 -0500" channel="Discovery Kids HD">
+    <title>Ba da Bean El desorden de Cosa</title>
+  </programme>
+
+  <programme start="20260417022400 -0500" stop="20260417023600 -0500" channel="Discovery Kids HD">
+    <title>Ba da Bean Mal gusto</title>
+  </programme>
+
+  <programme start="20260417023600 -0500" stop="20260417025800 -0500" channel="Discovery Kids HD">
+    <title>100% Lobo La leyenda del anillo lunar Pequeños malvados</title>
+  </programme>
+
+  <programme start="20260417025800 -0500" stop="20260417030900 -0500" channel="Discovery Kids HD">
+    <title>El mundo de Luna Piedra lunar</title>
+  </programme>
+
+  <programme start="20260417030900 -0500" stop="20260417032100 -0500" channel="Discovery Kids HD">
+    <title>Defensores Petronix Misión: rescate a la colonia de pingüinos</title>
+  </programme>
+
+  <programme start="20260417032100 -0500" stop="20260417034400 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El tesoro pirata / La luna y las estrellas / El circo de Peppa / El estanque / Cuando eras chiq</title>
+  </programme>
+
+  <programme start="20260417034400 -0500" stop="20260417040700 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Vamos a esquiar / Perfume / El arenero / La tetera del señor Toribio</title>
+  </programme>
+
+  <programme start="20260417040700 -0500" stop="20260417043100 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Serenata / El sombrero de Carlos</title>
+  </programme>
+
+  <programme start="20260417043100 -0500" stop="20260417045300 -0500" channel="Discovery Kids HD">
+    <title>100% Lobo La leyenda del anillo lunar Alimentando a las criaturas</title>
+  </programme>
+
+  <programme start="20260417045300 -0500" stop="20260417051500 -0500" channel="Discovery Kids HD">
+    <title>¡Agente binky al rescate! Planeta Calabaza / Feliz día de Acción de Gracias</title>
+  </programme>
+
+  <programme start="20260417051500 -0500" stop="20260417053700 -0500" channel="Discovery Kids HD">
+    <title>¡Agente binky al rescate! Luces, cámara, agentes / Un paseo en el parque</title>
+  </programme>
+
+  <programme start="20260417053700 -0500" stop="20260417060000 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Adiós, Señora Gacela</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417062500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers El misterio del cuerno suizo / Batalla redoblante / La muralla / Rock a capella</title>
+  </programme>
+
+  <programme start="20260417062500 -0500" stop="20260417063000 -0500" channel="Discovery Kids HD">
+    <title>Aprendemos juntos 2030 Kids</title>
+  </programme>
+
+  <programme start="20260417063000 -0500" stop="20260417064200 -0500" channel="Discovery Kids HD">
+    <title>El mundo de Luna Piedra lunar</title>
+  </programme>
+
+  <programme start="20260417064200 -0500" stop="20260417065700 -0500" channel="Discovery Kids HD">
+    <title>El mundo de Luna ¡Despegue!</title>
+  </programme>
+
+  <programme start="20260417065700 -0500" stop="20260417072200 -0500" channel="Discovery Kids HD">
+    <title>Curious George Jorge le hace una casa a Hundley / El tiempo es un misterio</title>
+  </programme>
+
+  <programme start="20260417072200 -0500" stop="20260417073700 -0500" channel="Discovery Kids HD">
+    <title>Bubble&apos;s Hotel Supernova</title>
+  </programme>
+
+  <programme start="20260417073700 -0500" stop="20260417074900 -0500" channel="Discovery Kids HD">
+    <title>Super Wish El laberinto del castillo</title>
+  </programme>
+
+  <programme start="20260417074900 -0500" stop="20260417080100 -0500" channel="Discovery Kids HD">
+    <title>Super Wish La zanahoria dorada</title>
+  </programme>
+
+  <programme start="20260417080100 -0500" stop="20260417081300 -0500" channel="Discovery Kids HD">
+    <title>Polly Pocket El erizo fugitivo</title>
+  </programme>
+
+  <programme start="20260417081300 -0500" stop="20260417082800 -0500" channel="Discovery Kids HD">
+    <title>Polly Pocket Nutrias juguetonas</title>
+  </programme>
+
+  <programme start="20260417082800 -0500" stop="20260417083900 -0500" channel="Discovery Kids HD">
+    <title>Hermanos constructores fábrica de sueños El campamento</title>
+  </programme>
+
+  <programme start="20260417083900 -0500" stop="20260417090200 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Jugando en las alturas / El regalo de Navidad / Viaje en canoa / Vacaciones lluviosas</title>
+  </programme>
+
+  <programme start="20260417090200 -0500" stop="20260417092500 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Mundo miniatura / Las estampillas del Abuelo Cerdito / Peppa y las excavadoras</title>
+  </programme>
+
+  <programme start="20260417092500 -0500" stop="20260417093600 -0500" channel="Discovery Kids HD">
+    <title>Zuk, la brujita Brillantina en la casa</title>
+  </programme>
+
+  <programme start="20260417093600 -0500" stop="20260417094800 -0500" channel="Discovery Kids HD">
+    <title>Open Season la naturaleza llama Bienvenidos al campamento</title>
+  </programme>
+
+  <programme start="20260417094800 -0500" stop="20260417101000 -0500" channel="Discovery Kids HD">
+    <title>Mermicorno Lluvia de Estrellas En la boca del Kraken</title>
+  </programme>
+
+  <programme start="20260417101000 -0500" stop="20260417102100 -0500" channel="Discovery Kids HD">
+    <title>Lupi y Baduki Una aventura desde el cielo</title>
+  </programme>
+
+  <programme start="20260417102100 -0500" stop="20260417104800 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Dee, el perfecto / ¡Boogie Woogie Woo! / Rock del espacio / El cumpleaños de Jay / El cuart</title>
+  </programme>
+
+  <programme start="20260417104800 -0500" stop="20260417111500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Por la izquierda / Cumpleaños virtual / El rey Carlos / Hipo y Scat / El pulgar de Baby Div</title>
+  </programme>
+
+  <programme start="20260417111500 -0500" stop="20260417113000 -0500" channel="Discovery Kids HD">
+    <title>Quantum Heroes Dinoster El inicio del superdinotraje</title>
+  </programme>
+
+  <programme start="20260417113000 -0500" stop="20260417115200 -0500" channel="Discovery Kids HD">
+    <title>LEGO DREAMZzz El escape sombrío</title>
+  </programme>
+
+  <programme start="20260417115200 -0500" stop="20260417115800 -0500" channel="Discovery Kids HD">
+    <title>Aprendemos juntos 2030 Kids</title>
+  </programme>
+
+  <programme start="20260417115800 -0500" stop="20260417122300 -0500" channel="Discovery Kids HD">
+    <title>Três espiãs demais Misión acuática</title>
+  </programme>
+
+  <programme start="20260417122300 -0500" stop="20260417124900 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El día romano / Avistamiento de aves / Peppa en el cine / El juego de pelota / El tesoro enterrado</title>
+  </programme>
+
+  <programme start="20260417124900 -0500" stop="20260417131500 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Parque de dinosaurios / Cuento para dormir / Las llaves / El nuevo dinosaurio de George / El</title>
+  </programme>
+
+  <programme start="20260417131500 -0500" stop="20260417132000 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers ¡Señas para rockear!</title>
+  </programme>
+
+  <programme start="20260417132000 -0500" stop="20260417132500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers La niñera durmiente</title>
+  </programme>
+
+  <programme start="20260417132500 -0500" stop="20260417135200 -0500" channel="Discovery Kids HD">
+    <title>Academia Unicornio La Carrera</title>
+  </programme>
+
+  <programme start="20260417135200 -0500" stop="20260417140300 -0500" channel="Discovery Kids HD">
+    <title>Topo Gigio La nueva moneda</title>
+  </programme>
+
+  <programme start="20260417140300 -0500" stop="20260417141800 -0500" channel="Discovery Kids HD">
+    <title>Super Wish El primer pastel de cumpleaños</title>
+  </programme>
+
+  <programme start="20260417141800 -0500" stop="20260417143000 -0500" channel="Discovery Kids HD">
+    <title>¡Agente binky al rescate! La Aspiradora</title>
+  </programme>
+
+  <programme start="20260417143000 -0500" stop="20260417144200 -0500" channel="Discovery Kids HD">
+    <title>Talking Tom Heroes Los Superpoderosos No Show and Tell</title>
+  </programme>
+
+  <programme start="20260417144200 -0500" stop="20260417145300 -0500" channel="Discovery Kids HD">
+    <title>Mundo de Barney El cumpleaños de Barney</title>
+  </programme>
+
+  <programme start="20260417145300 -0500" stop="20260417150500 -0500" channel="Discovery Kids HD">
+    <title>Quantum Heroes Dinoster El parasaurolophus interrumpe la fiesta</title>
+  </programme>
+
+  <programme start="20260417150500 -0500" stop="20260417151700 -0500" channel="Discovery Kids HD">
+    <title>Topo Gigio Un cumpleaños memorable</title>
+  </programme>
+
+  <programme start="20260417151700 -0500" stop="20260417152900 -0500" channel="Discovery Kids HD">
+    <title>Ba da Bean Los geniales Cosa y Bean</title>
+  </programme>
+
+  <programme start="20260417152900 -0500" stop="20260417154100 -0500" channel="Discovery Kids HD">
+    <title>Hermanos constructores fábrica de sueños Rápidos y curiosos</title>
+  </programme>
+
+  <programme start="20260417154100 -0500" stop="20260417155600 -0500" channel="Discovery Kids HD">
+    <title>Underdogs United Feliz cumple, Capi</title>
+  </programme>
+
+  <programme start="20260417155600 -0500" stop="20260417155800 -0500" channel="Discovery Kids HD">
+    <title>Shasha y Milo cortos El hueso de Bong Bong</title>
+  </programme>
+
+  <programme start="20260417155800 -0500" stop="20260417160900 -0500" channel="Discovery Kids HD">
+    <title>Topo Gigio Buscando a Sapo</title>
+  </programme>
+
+  <programme start="20260417160900 -0500" stop="20260417162300 -0500" channel="Discovery Kids HD">
+    <title>El mundo de Luna Brillando</title>
+  </programme>
+
+  <programme start="20260417162300 -0500" stop="20260417163400 -0500" channel="Discovery Kids HD">
+    <title>Lupi y Baduki Un huevo en peligro</title>
+  </programme>
+
+  <programme start="20260417163400 -0500" stop="20260417170000 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Juegos en el jardín / A navegar / La tetera del señor Toribio / Fruta / El globo de George</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417172600 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El conejito de Pascua / El proyecto escolar / La policía / El libro de mamá Cerdita / El zoológico</title>
+  </programme>
+
+  <programme start="20260417172600 -0500" stop="20260417175200 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Vamos de viaje / El restaurante / Visitemos el cañón / Hollywood / La motocicleta</title>
+  </programme>
+
+  <programme start="20260417175200 -0500" stop="20260417175700 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El autobús de fiesta se descompuso</title>
+  </programme>
+
+  <programme start="20260417175700 -0500" stop="20260417180200 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig La casa club espeluznante</title>
+  </programme>
+
+  <programme start="20260417180200 -0500" stop="20260417180700 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El apartamento de Freddy Zorro</title>
+  </programme>
+
+  <programme start="20260417180700 -0500" stop="20260417194400 -0500" channel="Discovery Kids HD">
+    <title>Cómo Entrenar a tu Dragón Un desaventurado joven Vikingo que aspira a ser un caza dragones se vuelve amigo de un pequeño dragón, y aprende a controlarlo.</title>
+  </programme>
+
+  <programme start="20260417194400 -0500" stop="20260417200900 -0500" channel="Discovery Kids HD">
+    <title>Três espiãs demais Trol troleador</title>
+  </programme>
+
+  <programme start="20260417200900 -0500" stop="20260417203500 -0500" channel="Discovery Kids HD">
+    <title>100% Lobo La leyenda del anillo lunar Lobópolis</title>
+  </programme>
+
+  <programme start="20260417203500 -0500" stop="20260417204700 -0500" channel="Discovery Kids HD">
+    <title>Topo Gigio El intercambio</title>
+  </programme>
+
+  <programme start="20260417204700 -0500" stop="20260417205200 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig La gran remodelación</title>
+  </programme>
+
+  <programme start="20260417205200 -0500" stop="20260417205700 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Decorando</title>
+  </programme>
+
+  <programme start="20260417205700 -0500" stop="20260417210200 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Un auto más grande</title>
+  </programme>
+
+  <programme start="20260417210200 -0500" stop="20260417210700 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Un minigigante</title>
+  </programme>
+
+  <programme start="20260417210700 -0500" stop="20260417211200 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers La caja musical</title>
+  </programme>
+
+  <programme start="20260417211200 -0500" stop="20260417211700 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Batalla de bandas</title>
+  </programme>
+
+  <programme start="20260417211700 -0500" stop="20260417214300 -0500" channel="Discovery Kids HD">
+    <title>Academia Unicornio Lluvias de estrellas</title>
+  </programme>
+
+  <programme start="20260417214300 -0500" stop="20260417215500 -0500" channel="Discovery Kids HD">
+    <title>Talking Tom Heroes Los Superpoderosos No Show and Tell</title>
+  </programme>
+
+  <programme start="20260417215500 -0500" stop="20260417221000 -0500" channel="Discovery Kids HD">
+    <title>Polly Pocket Entre manzanas y perros</title>
+  </programme>
+
+  <programme start="20260417221000 -0500" stop="20260417222200 -0500" channel="Discovery Kids HD">
+    <title>Topo Gigio Galletas con sabor a desastre</title>
+  </programme>
+
+  <programme start="20260417222200 -0500" stop="20260417224800 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig El cumpleaños de Mandy Ratona / El castillo de arena</title>
+  </programme>
+
+  <programme start="20260417224800 -0500" stop="20260417231500 -0500" channel="Discovery Kids HD">
+    <title>Peppa Pig Hotel para insectos / Juegos de paracaídas / Discos voladores / Ejercicios para niños / Reg</title>
+  </programme>
+
+  <programme start="20260417231500 -0500" stop="20260417232000 -0500" channel="Discovery Kids HD">
+    <title>Aprendemos juntos 2030 Kids</title>
+  </programme>
+
+  <programme start="20260417232000 -0500" stop="20260417232500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Duelo de gatos</title>
+  </programme>
+
+  <programme start="20260417232500 -0500" stop="20260417233000 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers Funk y Fuz</title>
+  </programme>
+
+  <programme start="20260417233000 -0500" stop="20260417233500 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers ¡Despierta, Carlos!</title>
+  </programme>
+
+  <programme start="20260417233500 -0500" stop="20260417234700 -0500" channel="Discovery Kids HD">
+    <title>Hello Kitty Super Style! ¡Animemos Ciudad Cereza!</title>
+  </programme>
+
+  <programme start="20260417234700 -0500" stop="20260418001100 -0500" channel="Discovery Kids HD">
+    <title>Mini beat power rockers El corazón de Myo / El misterio de los objetos desaparecidos / Día de spa / Una fantasía de</title>
+  </programme>
+
+  <channel id="Tooncast">
+    <display-name>Tooncast</display-name>
+  </channel>
+
+  <programme start="20260417235800 -0500" stop="20260418002600 -0500" channel="Tooncast">
+    <title>Don Gato y Su Pandilla</title>
+  </programme>
+
+  <programme start="20260417002600 -0500" stop="20260417005400 -0500" channel="Tooncast">
+    <title>Don Gato y Su Pandilla</title>
+  </programme>
+
+  <programme start="20260417005400 -0500" stop="20260417012100 -0500" channel="Tooncast">
+    <title>Los Picapiedra Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura.</title>
+  </programme>
+
+  <programme start="20260417012100 -0500" stop="20260417014800 -0500" channel="Tooncast">
+    <title>Los Picapiedra Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura.</title>
+  </programme>
+
+  <programme start="20260417014800 -0500" stop="20260417015800 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417015800 -0500" stop="20260417020800 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417020800 -0500" stop="20260417021800 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417021800 -0500" stop="20260417022800 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417022800 -0500" stop="20260417024000 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417024000 -0500" stop="20260417030200 -0500" channel="Tooncast">
+    <title>Thundercats</title>
+  </programme>
+
+  <programme start="20260417030200 -0500" stop="20260417032400 -0500" channel="Tooncast">
+    <title>Thundercats</title>
+  </programme>
+
+  <programme start="20260417032400 -0500" stop="20260417033500 -0500" channel="Tooncast">
+    <title>Hermano de Jorel Temporada 5 | Episodio 16 La guerra de alimento de las galaxias</title>
+  </programme>
+
+  <programme start="20260417033500 -0500" stop="20260417034700 -0500" channel="Tooncast">
+    <title>Hermano de Jorel Temporada 5 | Episodio 17</title>
+  </programme>
+
+  <programme start="20260417034700 -0500" stop="20260417040000 -0500" channel="Tooncast">
+    <title>Hermano de Jorel Temporada 5 | Episodio 19 Caballo Robson</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417042500 -0500" channel="Tooncast">
+    <title>Mansión foster para amigos imaginarios</title>
+  </programme>
+
+  <programme start="20260417042500 -0500" stop="20260417045000 -0500" channel="Tooncast">
+    <title>Mansión foster para amigos imaginarios</title>
+  </programme>
+
+  <programme start="20260417045000 -0500" stop="20260417050100 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417050100 -0500" stop="20260417051200 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417051200 -0500" stop="20260417052300 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417052300 -0500" stop="20260417053600 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417053600 -0500" stop="20260417054600 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417054600 -0500" stop="20260417055900 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417055900 -0500" stop="20260417061000 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417061000 -0500" stop="20260417062100 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417062100 -0500" stop="20260417063400 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417063400 -0500" stop="20260417064500 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417064500 -0500" stop="20260417065900 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417065900 -0500" stop="20260417070500 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417070500 -0500" stop="20260417071300 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417071300 -0500" stop="20260417071900 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417071900 -0500" stop="20260417072600 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417072600 -0500" stop="20260417073400 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417073400 -0500" stop="20260417074500 -0500" channel="Tooncast">
+    <title>Mike, Lu y Og</title>
+  </programme>
+
+  <programme start="20260417074500 -0500" stop="20260417075800 -0500" channel="Tooncast">
+    <title>Mike, Lu y Og</title>
+  </programme>
+
+  <programme start="20260417075800 -0500" stop="20260417075900 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417075900 -0500" stop="20260417080000 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417080500 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417080500 -0500" stop="20260417080700 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417080700 -0500" stop="20260417080800 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417080800 -0500" stop="20260417081000 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081000 -0500" stop="20260417081100 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081100 -0500" stop="20260417081200 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081200 -0500" stop="20260417081300 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081300 -0500" stop="20260417081500 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081500 -0500" stop="20260417081900 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417081900 -0500" stop="20260417082100 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417082100 -0500" stop="20260417082800 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417082800 -0500" stop="20260417083100 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417083100 -0500" stop="20260417084100 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417084100 -0500" stop="20260417085300 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417085300 -0500" stop="20260417090500 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417090500 -0500" stop="20260417093100 -0500" channel="Tooncast">
+    <title>Los Sábados Secretos</title>
+  </programme>
+
+  <programme start="20260417093100 -0500" stop="20260417094100 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417094100 -0500" stop="20260417095200 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417095200 -0500" stop="20260417100400 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417100400 -0500" stop="20260417101500 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417101500 -0500" stop="20260417102500 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417102500 -0500" stop="20260417103800 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417103800 -0500" stop="20260417110400 -0500" channel="Tooncast">
+    <title>¿Scooby Doo, dónde estás?</title>
+  </programme>
+
+  <programme start="20260417110400 -0500" stop="20260417112600 -0500" channel="Tooncast">
+    <title>Scooby-Doo! Misterios S.A.</title>
+  </programme>
+
+  <programme start="20260417112600 -0500" stop="20260417115300 -0500" channel="Tooncast">
+    <title>Scooby-Doo! Misterios S.A.</title>
+  </programme>
+
+  <programme start="20260417115300 -0500" stop="20260417122000 -0500" channel="Tooncast">
+    <title>Don Gato y Su Pandilla</title>
+  </programme>
+
+  <programme start="20260417122000 -0500" stop="20260417124700 -0500" channel="Tooncast">
+    <title>Don Gato y Su Pandilla</title>
+  </programme>
+
+  <programme start="20260417124700 -0500" stop="20260417131400 -0500" channel="Tooncast">
+    <title>Los Picapiedra Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura.</title>
+  </programme>
+
+  <programme start="20260417131400 -0500" stop="20260417134100 -0500" channel="Tooncast">
+    <title>Los Picapiedra Pedro y Vilma Picapiedra y sus amigos Pablo y Betty Mármol son dos fabulosas familias que sobreviven a la era de la prehistoria en la ciudad de Piedradura.</title>
+  </programme>
+
+  <programme start="20260417134100 -0500" stop="20260417135100 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417135100 -0500" stop="20260417140100 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417140100 -0500" stop="20260417141100 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417141100 -0500" stop="20260417142200 -0500" channel="Tooncast">
+    <title>Los autos locos</title>
+  </programme>
+
+  <programme start="20260417142200 -0500" stop="20260417144300 -0500" channel="Tooncast">
+    <title>Thundercats</title>
+  </programme>
+
+  <programme start="20260417144300 -0500" stop="20260417150600 -0500" channel="Tooncast">
+    <title>Thundercats</title>
+  </programme>
+
+  <programme start="20260417150600 -0500" stop="20260417153000 -0500" channel="Tooncast">
+    <title>Thundercats</title>
+  </programme>
+
+  <programme start="20260417153000 -0500" stop="20260417154100 -0500" channel="Tooncast">
+    <title>Hermano de Jorel</title>
+  </programme>
+
+  <programme start="20260417154100 -0500" stop="20260417155300 -0500" channel="Tooncast">
+    <title>Hermano de Jorel Temporada 5 | Episodio 12</title>
+  </programme>
+
+  <programme start="20260417155300 -0500" stop="20260417160600 -0500" channel="Tooncast">
+    <title>Hermano de Jorel Temporada 5 | Episodio 15 Sonámbulo molón</title>
+  </programme>
+
+  <programme start="20260417160600 -0500" stop="20260417163200 -0500" channel="Tooncast">
+    <title>Mansión foster para amigos imaginarios</title>
+  </programme>
+
+  <programme start="20260417163200 -0500" stop="20260417165700 -0500" channel="Tooncast">
+    <title>Mansión foster para amigos imaginarios</title>
+  </programme>
+
+  <programme start="20260417165700 -0500" stop="20260417170800 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417170800 -0500" stop="20260417171900 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417171900 -0500" stop="20260417173000 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417173000 -0500" stop="20260417174200 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417174200 -0500" stop="20260417175300 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417175300 -0500" stop="20260417180600 -0500" channel="Tooncast">
+    <title>El campamento de Lazlo</title>
+  </programme>
+
+  <programme start="20260417180600 -0500" stop="20260417181700 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417181700 -0500" stop="20260417182800 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417182800 -0500" stop="20260417184100 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417184100 -0500" stop="20260417185200 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417185200 -0500" stop="20260417190500 -0500" channel="Tooncast">
+    <title>Mi compañero de Clase es un Mono Un niño de doce años es enviado a la Escuela Charles Darwin en donde todos son animales, ahí conoce a un mono araña que se convierte en su mejor amigo.</title>
+  </programme>
+
+  <programme start="20260417190500 -0500" stop="20260417191200 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417191200 -0500" stop="20260417191900 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417191900 -0500" stop="20260417192600 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417192600 -0500" stop="20260417193200 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417193200 -0500" stop="20260417194100 -0500" channel="Tooncast">
+    <title>Hi Hi Puffy Amiyumi</title>
+  </programme>
+
+  <programme start="20260417194100 -0500" stop="20260417195200 -0500" channel="Tooncast">
+    <title>Mike, Lu y Og</title>
+  </programme>
+
+  <programme start="20260417195200 -0500" stop="20260417200500 -0500" channel="Tooncast">
+    <title>Mike, Lu y Og</title>
+  </programme>
+
+  <programme start="20260417200500 -0500" stop="20260417200600 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417200600 -0500" stop="20260417201100 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201100 -0500" stop="20260417201200 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201200 -0500" stop="20260417201400 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201400 -0500" stop="20260417201500 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201500 -0500" stop="20260417201700 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201700 -0500" stop="20260417201800 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201800 -0500" stop="20260417201900 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417201900 -0500" stop="20260417202000 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417202000 -0500" stop="20260417202100 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417202100 -0500" stop="20260417202600 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417202600 -0500" stop="20260417202800 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417202800 -0500" stop="20260417203400 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417203400 -0500" stop="20260417203800 -0500" channel="Tooncast">
+    <title>Sheep en la Gran Ciudad</title>
+  </programme>
+
+  <programme start="20260417203800 -0500" stop="20260417204800 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417204800 -0500" stop="20260417205900 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417205900 -0500" stop="20260417211200 -0500" channel="Tooncast">
+    <title>Escuadrón del Tiempo Otto, Larry y Buck son tres héroes muy distintos que viven en el futuro y viajan en el tiempo para asegurarse de que la historia ocurra como la conocemos.</title>
+  </programme>
+
+  <programme start="20260417211200 -0500" stop="20260417213700 -0500" channel="Tooncast">
+    <title>Los Sábados Secretos</title>
+  </programme>
+
+  <programme start="20260417213700 -0500" stop="20260417214800 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417214800 -0500" stop="20260417215900 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417215900 -0500" stop="20260417221100 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417221100 -0500" stop="20260417222200 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417222200 -0500" stop="20260417223200 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417223200 -0500" stop="20260417224400 -0500" channel="Tooncast">
+    <title>Los pequeños Looney Tunes</title>
+  </programme>
+
+  <programme start="20260417224400 -0500" stop="20260417231100 -0500" channel="Tooncast">
+    <title>¿Scooby Doo, dónde estás?</title>
+  </programme>
+
+  <programme start="20260417231100 -0500" stop="20260417233300 -0500" channel="Tooncast">
+    <title>Scooby-Doo! Misterios S.A.</title>
+  </programme>
+
+  <programme start="20260417233300 -0500" stop="20260418000000 -0500" channel="Tooncast">
+    <title>Scooby-Doo! Misterios S.A.</title>
+  </programme>
+
+  <channel id="Cartoon Network HD">
+    <display-name>Cartoon Network HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417010000 -0500" channel="Cartoon Network HD">
+    <title>Escandalosos Temporada 3 | Episodio 51 Escuadrón osuno</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417023000 -0500" channel="Cartoon Network HD">
+    <title>El Increíble Mundo de Gumball Temporada 5 | Episodio 13 El drama</title>
+  </programme>
+
+  <programme start="20260417023000 -0500" stop="20260417040000 -0500" channel="Cartoon Network HD">
+    <title>Steven universe Temporada 1 | Episodio 8 Steven se pone serio</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417050000 -0500" channel="Cartoon Network HD">
+    <title>El mundo de Craig Temporada 1 | Episodio 1 Ganas de explorar</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417060000 -0500" channel="Cartoon Network HD">
+    <title>Los Jóvenes Titanes En Acción Temporada 3 | Episodio 44 El show de los Titanes</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417070000 -0500" channel="Cartoon Network HD">
+    <title>El Increíble Mundo de Gumball Temporada 5 | Episodio 37 El fastidio</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417073000 -0500" channel="Cartoon Network HD">
+    <title>Los Jóvenes Titanes En Acción Temporada 6 | Episodio 6 Lluvia en el día de tu boda</title>
+  </programme>
+
+  <programme start="20260417073000 -0500" stop="20260417080000 -0500" channel="Cartoon Network HD">
+    <title>Escandalositos Temporada 2 | Episodio 10 Los detectives de la Ciudad de los Bichos</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417090000 -0500" channel="Cartoon Network HD">
+    <title>Escandalosos Temporada 3 | Episodio 52 Calamarcito</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417093000 -0500" channel="Cartoon Network HD">
+    <title>Los Colorado Temporada 1 | Episodio 10 No hay clon que por bien no venga</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417100000 -0500" channel="Cartoon Network HD">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 1 | Episodio 16 Lo gourmet</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417110000 -0500" channel="Cartoon Network HD">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 27 Un día de Acción de Gracias con la Doom Patrol</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417120000 -0500" channel="Cartoon Network HD">
+    <title>El Increíble Mundo de Gumball Temporada 6 | Episodio 38 La Red</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417121500 -0500" channel="Cartoon Network HD">
+    <title>Submarine Jim</title>
+  </programme>
+
+  <programme start="20260417121500 -0500" stop="20260417123000 -0500" channel="Cartoon Network HD">
+    <title>El mundo de Craig</title>
+  </programme>
+
+  <programme start="20260417123000 -0500" stop="20260417130000 -0500" channel="Cartoon Network HD">
+    <title>A Summer Memories Short Memory Temporada 1</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417133000 -0500" channel="Cartoon Network HD">
+    <title>Escandalosos Temporada 1 | Episodio 7 Burrito</title>
+  </programme>
+
+  <programme start="20260417133000 -0500" stop="20260417140000 -0500" channel="Cartoon Network HD">
+    <title>Drama total: La guardería Temporada 3 | Episodio 20 Un dingo se comio a mi Duncan</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417143000 -0500" channel="Cartoon Network HD">
+    <title>Clarence Temporada 2 | Episodio 22 Salón de clases</title>
+  </programme>
+
+  <programme start="20260417143000 -0500" stop="20260417144500 -0500" channel="Cartoon Network HD">
+    <title>O Mundo (Sem Filtro) de Any Malu</title>
+  </programme>
+
+  <programme start="20260417144500 -0500" stop="20260417150000 -0500" channel="Cartoon Network HD">
+    <title>El mundo surrealista de Any Malu</title>
+  </programme>
+
+  <programme start="20260417150000 -0500" stop="20260417160000 -0500" channel="Cartoon Network HD">
+    <title>Un show más Temporada 3 | Episodio 24 Puños justicieros</title>
+  </programme>
+
+  <programme start="20260417160000 -0500" stop="20260417163000 -0500" channel="Cartoon Network HD">
+    <title>El mundo de Craig Temporada 4 | Episodio 20 De escapada con la abuela</title>
+  </programme>
+
+  <programme start="20260417163000 -0500" stop="20260417170000 -0500" channel="Cartoon Network HD">
+    <title>El maravillosamente extraño mundo de Gumball Temporada 1 | Episodio 10 La maestra</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417173000 -0500" channel="Cartoon Network HD">
+    <title>Escandalositos Temporada 2 | Episodio 10 Los detectives de la Ciudad de los Bichos</title>
+  </programme>
+
+  <programme start="20260417173000 -0500" stop="20260417174500 -0500" channel="Cartoon Network HD">
+    <title>Las heroicas aventuras del valiente príncipe Ivandoe Temporada 5 | Episodio 1 El príncipe y los patinadores atrevidos</title>
+  </programme>
+
+  <programme start="20260417174500 -0500" stop="20260417180000 -0500" channel="Cartoon Network HD">
+    <title>Submarine Jim</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417183000 -0500" channel="Cartoon Network HD">
+    <title>¡Megamente manda! Temporada 1 | Episodio 5 Puntos extra</title>
+  </programme>
+
+  <programme start="20260417183000 -0500" stop="20260417190000 -0500" channel="Cartoon Network HD">
+    <title>Hora de aventura Temporada 4 El reinado de los Gunters</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417193000 -0500" channel="Cartoon Network HD">
+    <title>Los Jóvenes Titanes En Acción Temporada 7 | Episodio 43 Kyle</title>
+  </programme>
+
+  <programme start="20260417193000 -0500" stop="20260417200000 -0500" channel="Cartoon Network HD">
+    <title>Un show más Temporada 3 | Episodio 16 Por marcar con el trasero</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417220000 -0500" channel="Cartoon Network HD">
+    <title>Vivo</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417224500 -0500" channel="Cartoon Network HD">
+    <title>Hora de aventura Temporada 3 Pedro Papel</title>
+  </programme>
+
+  <programme start="20260417224500 -0500" stop="20260418000000 -0500" channel="Cartoon Network HD">
+    <title>Un show más Temporada 4 | Episodio 13 El sándwich de la muerte</title>
+  </programme>
+
+  <channel id="Disney Channel HD">
+    <display-name>Disney Channel HD</display-name>
+  </channel>
+
+  <programme start="20260417234800 -0500" stop="20260418001200 -0500" channel="Disney Channel HD">
+    <title>Miraculous Las Aventuras de Ladybug</title>
+  </programme>
+
+  <programme start="20260417001200 -0500" stop="20260417002400 -0500" channel="Disney Channel HD">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+
+  <programme start="20260417002400 -0500" stop="20260417004700 -0500" channel="Disney Channel HD">
+    <title>La casa Búho</title>
+  </programme>
+
+  <programme start="20260417004700 -0500" stop="20260417010900 -0500" channel="Disney Channel HD">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+
+  <programme start="20260417010900 -0500" stop="20260417013300 -0500" channel="Disney Channel HD">
+    <title>Acampados El campamento vaquero</title>
+  </programme>
+
+  <programme start="20260417013300 -0500" stop="20260417015700 -0500" channel="Disney Channel HD">
+    <title>Sydney como Max</title>
+  </programme>
+
+  <programme start="20260417015700 -0500" stop="20260417025300 -0500" channel="Disney Channel HD">
+    <title>Los hechiceros de Waverly Place</title>
+  </programme>
+
+  <programme start="20260417025300 -0500" stop="20260417031600 -0500" channel="Disney Channel HD">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+
+  <programme start="20260417031600 -0500" stop="20260417033800 -0500" channel="Disney Channel HD">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+
+  <programme start="20260417033800 -0500" stop="20260417040100 -0500" channel="Disney Channel HD">
+    <title>Miraculous Las Aventuras de Ladybug</title>
+  </programme>
+
+  <programme start="20260417040100 -0500" stop="20260417042400 -0500" channel="Disney Channel HD">
+    <title>Las aventuras enredadas de Rapunzel</title>
+  </programme>
+
+  <programme start="20260417042400 -0500" stop="20260417043600 -0500" channel="Disney Channel HD">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+
+  <programme start="20260417043600 -0500" stop="20260417050000 -0500" channel="Disney Channel HD">
+    <title>Star vs. Las Fuerzas del Mal Una princesa mágica llega a la tierra donde continúa luchando contra villanos y para proteger a su poderosa varita mágica que aún está aprendiendo a usar.</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417051100 -0500" channel="Disney Channel HD">
+    <title>Las Aventuras de Pilar</title>
+  </programme>
+
+  <programme start="20260417051100 -0500" stop="20260417052200 -0500" channel="Disney Channel HD">
+    <title>Mickey Mouse</title>
+  </programme>
+
+  <programme start="20260417052200 -0500" stop="20260417055000 -0500" channel="Disney Channel HD">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+
+  <programme start="20260417055000 -0500" stop="20260417060100 -0500" channel="Disney Channel HD">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+
+  <programme start="20260417060100 -0500" stop="20260417061700 -0500" channel="Disney Channel HD">
+    <title>Trompa tren</title>
+  </programme>
+
+  <programme start="20260417061700 -0500" stop="20260417063200 -0500" channel="Disney Channel HD">
+    <title>Tara Duncan</title>
+  </programme>
+
+  <programme start="20260417063200 -0500" stop="20260417065900 -0500" channel="Disney Channel HD">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+
+  <programme start="20260417065900 -0500" stop="20260417072900 -0500" channel="Disney Channel HD">
+    <title>Kiff</title>
+  </programme>
+
+  <programme start="20260417072900 -0500" stop="20260417080000 -0500" channel="Disney Channel HD">
+    <title>Amphibia Una niña de 13 años que, tras robar una caja musical, es transportada a un pantano salvaje lleno de ranas parlantes donde descubre la verdadera amistad.</title>
+  </programme>
+
+  <programme start="20260417080000 -0500" stop="20260417082900 -0500" channel="Disney Channel HD">
+    <title>Hamster &amp; Gretel</title>
+  </programme>
+
+  <programme start="20260417082900 -0500" stop="20260417090000 -0500" channel="Disney Channel HD">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417092800 -0500" channel="Disney Channel HD">
+    <title>Miraculous Las Aventuras de Ladybug</title>
+  </programme>
+
+  <programme start="20260417092800 -0500" stop="20260417100000 -0500" channel="Disney Channel HD">
+    <title>Zombies la serie re-animada</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417102900 -0500" channel="Disney Channel HD">
+    <title>Phineas y Ferb Las audaces aventuras de dos hermanastros terminan obstaculizando el estilo de vida de su hermana adolescente mientras trata de exponerlos con sus padres.</title>
+  </programme>
+
+  <programme start="20260417102900 -0500" stop="20260417110000 -0500" channel="Disney Channel HD">
+    <title>La familia Proud</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417112900 -0500" channel="Disney Channel HD">
+    <title>Hannah Montana</title>
+  </programme>
+
+  <programme start="20260417112900 -0500" stop="20260417115700 -0500" channel="Disney Channel HD">
+    <title>Austin &amp; Ally</title>
+  </programme>
+
+  <programme start="20260417115700 -0500" stop="20260417122800 -0500" channel="Disney Channel HD">
+    <title>Atrapada en el medio</title>
+  </programme>
+
+  <programme start="20260417122800 -0500" stop="20260417125900 -0500" channel="Disney Channel HD">
+    <title>Zack y Cody Gemelos a bordo</title>
+  </programme>
+
+  <programme start="20260417125900 -0500" stop="20260417133000 -0500" channel="Disney Channel HD">
+    <title>Gravity Falls: Un Verano de Misterios Los gemelos Dipper y Mabel se encuentran en una aventura inesperada cuando pasan el verano con su tío abuelo en la misteriosa ciudad de Gravity Falls.</title>
+  </programme>
+
+  <programme start="20260417133000 -0500" stop="20260417140000 -0500" channel="Disney Channel HD">
+    <title>Los Vecinos Green Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417143000 -0500" channel="Disney Channel HD">
+    <title>StuGo Campamento de verano</title>
+  </programme>
+
+  <programme start="20260417143000 -0500" stop="20260417145700 -0500" channel="Disney Channel HD">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+
+  <programme start="20260417145700 -0500" stop="20260417153000 -0500" channel="Disney Channel HD">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+
+  <programme start="20260417153000 -0500" stop="20260417160000 -0500" channel="Disney Channel HD">
+    <title>Electric Bloom La mejor banda del mundo</title>
+  </programme>
+
+  <programme start="20260417160000 -0500" stop="20260417162800 -0500" channel="Disney Channel HD">
+    <title>Miraculous Las Aventuras de Ladybug</title>
+  </programme>
+
+  <programme start="20260417162800 -0500" stop="20260417165800 -0500" channel="Disney Channel HD">
+    <title>Vampirina Una Vampirina adolescente</title>
+  </programme>
+
+  <programme start="20260417165800 -0500" stop="20260417172800 -0500" channel="Disney Channel HD">
+    <title>Los Hechiceros Más Allá De Waverly Place</title>
+  </programme>
+
+  <programme start="20260417172800 -0500" stop="20260417180000 -0500" channel="Disney Channel HD">
+    <title>L-Pop</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417190700 -0500" channel="Disney Channel HD">
+    <title>Descendientes / Zombies Choque de mundos - Concierto especial</title>
+  </programme>
+
+  <programme start="20260417190700 -0500" stop="20260417195100 -0500" channel="Disney Channel HD">
+    <title>Selenkay</title>
+  </programme>
+
+  <programme start="20260417195100 -0500" stop="20260417203400 -0500" channel="Disney Channel HD">
+    <title>Selenkay</title>
+  </programme>
+
+  <programme start="20260417203400 -0500" stop="20260417205900 -0500" channel="Disney Channel HD">
+    <title>Acampados</title>
+  </programme>
+
+  <programme start="20260417205900 -0500" stop="20260417213000 -0500" channel="Disney Channel HD">
+    <title>Lucha! Despierta tu Naturaleza</title>
+  </programme>
+
+  <programme start="20260417213000 -0500" stop="20260417220100 -0500" channel="Disney Channel HD">
+    <title>La casa de Raven</title>
+  </programme>
+
+  <programme start="20260417220100 -0500" stop="20260417223100 -0500" channel="Disney Channel HD">
+    <title>Liv y Maddie Estilo California</title>
+  </programme>
+
+  <programme start="20260417223100 -0500" stop="20260417225900 -0500" channel="Disney Channel HD">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+
+  <programme start="20260417225900 -0500" stop="20260417232200 -0500" channel="Disney Channel HD">
+    <title>El fantasma y Molly McGee</title>
+  </programme>
+
+  <programme start="20260417232200 -0500" stop="20260417233400 -0500" channel="Disney Channel HD">
+    <title>Zombies la serie re-animada</title>
+  </programme>
+
+  <programme start="20260417233400 -0500" stop="20260417234600 -0500" channel="Disney Channel HD">
+    <title>Tara Duncan</title>
+  </programme>
+
+  <programme start="20260417234600 -0500" stop="20260418001000 -0500" channel="Disney Channel HD">
+    <title>Miraculous Las Aventuras de Ladybug</title>
+  </programme>
+
+  <channel id="Disney Junior">
+    <display-name>Disney Junior</display-name>
+  </channel>
+
+  <programme start="20260417233600 -0500" stop="20260418000200 -0500" channel="Disney Junior">
+    <title>Puppy Dog Pals Los cachorros pugs amantes de la diversión siempre están en búsqueda de aventuras, ya sea ayudando a su dueño Bob o ayudando a un amigo animal necesitado.</title>
+  </programme>
+
+  <programme start="20260417000200 -0500" stop="20260417002600 -0500" channel="Disney Junior">
+    <title>Princesita Sofía Temporada 2 | Episodio 2 Las fiestas de Encantia</title>
+  </programme>
+
+  <programme start="20260417002600 -0500" stop="20260417005000 -0500" channel="Disney Junior">
+    <title>PJ Masks: Héroes en Pijamas Temporada 3 | Episodio 17 Lobeznos con poderes; Baila el gecko</title>
+  </programme>
+
+  <programme start="20260417005000 -0500" stop="20260417011400 -0500" channel="Disney Junior">
+    <title>Star Wars: Aventuras de Jóvenes Jedi Temporada 1 | Episodio 11 Los ganguls; Huevos malos</title>
+  </programme>
+
+  <programme start="20260417011400 -0500" stop="20260417013900 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 1 | Episodio 10 Buen chico, Gobby/Mono araña</title>
+  </programme>
+
+  <programme start="20260417013900 -0500" stop="20260417020400 -0500" channel="Disney Junior">
+    <title>Mickey Mouse Funhouse Temporada 1 | Episodio 25 ¡Pluto de dieciocho metros!; ¡Un gigantesco problema!</title>
+  </programme>
+
+  <programme start="20260417020400 -0500" stop="20260417022800 -0500" channel="Disney Junior">
+    <title>PJ Masks: Héroes en Pijamas Temporada 2 | Episodio 12 La carrera por la montaña misteriosa; El prisionero de la montaña</title>
+  </programme>
+
+  <programme start="20260417022800 -0500" stop="20260417025600 -0500" channel="Disney Junior">
+    <title>Supergatitos Temporada 1 | Episodio 6 Lleno de arándanos; día de nieve</title>
+  </programme>
+
+  <programme start="20260417025600 -0500" stop="20260417032000 -0500" channel="Disney Junior">
+    <title>La casa de Mickey Mouse Temporada 2 | Episodio 11 El parque de diversiones de Clarabella</title>
+  </programme>
+
+  <programme start="20260417032000 -0500" stop="20260417034400 -0500" channel="Disney Junior">
+    <title>La Guardia del León Temporada 1 | Episodio 11 El llamado del cenzontle</title>
+  </programme>
+
+  <programme start="20260417034400 -0500" stop="20260417040800 -0500" channel="Disney Junior">
+    <title>Fancy Nancy Clancy Temporada 1 | Episodio 15 Au revoir, Jean-Claude; Ojo espía, con mi ojo veo</title>
+  </programme>
+
+  <programme start="20260417040800 -0500" stop="20260417043200 -0500" channel="Disney Junior">
+    <title>Doctora Juguetes Temporada 1 | Episodio 11 ¡A descansar un poco, Ronda!; Un camión con mucha energía</title>
+  </programme>
+
+  <programme start="20260417043200 -0500" stop="20260417050000 -0500" channel="Disney Junior">
+    <title>Vampirina Vee es una joven vampira que se muda con su familia de Transilvania a Pensilvania, ella y su familia se deben adaptar la vida como vampiros en la ciudad.</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417052600 -0500" channel="Disney Junior">
+    <title>Doctora Juguetes Temporada 1 | Episodio 12 Por culpa de la lluvia; El balón rebotón</title>
+  </programme>
+
+  <programme start="20260417052600 -0500" stop="20260417054400 -0500" channel="Disney Junior">
+    <title>Muppet Babies Temporada 2 | Episodio 1</title>
+  </programme>
+
+  <programme start="20260417054400 -0500" stop="20260417054800 -0500" channel="Disney Junior">
+    <title>El diario de Alicia Temporada 1 | Episodio 23 Huevamente genial</title>
+  </programme>
+
+  <programme start="20260417054800 -0500" stop="20260417055200 -0500" channel="Disney Junior">
+    <title>El diario de Alicia Temporada 1 | Episodio 11 El no dormir a dormir</title>
+  </programme>
+
+  <programme start="20260417055200 -0500" stop="20260417060200 -0500" channel="Disney Junior">
+    <title>El diario de Alicia Temporada 1 | Episodio 21 Lava Furiosa</title>
+  </programme>
+
+  <programme start="20260417060200 -0500" stop="20260417062900 -0500" channel="Disney Junior">
+    <title>Mickey Mouse Funhouse Temporada 1 | Episodio 11 Día de nieve en verano / ¡Sunny el muñeco de nieve!</title>
+  </programme>
+
+  <programme start="20260417062900 -0500" stop="20260417065900 -0500" channel="Disney Junior">
+    <title>Gigantosaurus Temporada 2 | Episodio 13 Plink, Plonk y Plunk; El concurso de la oruga</title>
+  </programme>
+
+  <programme start="20260417065900 -0500" stop="20260417071500 -0500" channel="Disney Junior">
+    <title>Firebuds Temporada 1 | Episodio 12 Rescate en el río; ¿miedo, yo?</title>
+  </programme>
+
+  <programme start="20260417071500 -0500" stop="20260417073000 -0500" channel="Disney Junior">
+    <title>Dino Ranch Temporada 1 El problema de Clover</title>
+  </programme>
+
+  <programme start="20260417073000 -0500" stop="20260417075900 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 13 Energía limpia / Doc Ock y los Rocktobots</title>
+  </programme>
+
+  <programme start="20260417075900 -0500" stop="20260417082600 -0500" channel="Disney Junior">
+    <title>Cachorros a la obra Temporada 2 | Episodio 7</title>
+  </programme>
+
+  <programme start="20260417082600 -0500" stop="20260417084500 -0500" channel="Disney Junior">
+    <title>PJ Masks: Héroes en Pijamas Temporada 3 | Episodio 6 Los poderes de Lionel; Mejores amigas por siempre</title>
+  </programme>
+
+  <programme start="20260417084500 -0500" stop="20260417090000 -0500" channel="Disney Junior">
+    <title>Kiya y los héroes de Kimoja UniLobo</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417092900 -0500" channel="Disney Junior">
+    <title>Bluey Temporada 1 Pijamada, las escondidas, campamento</title>
+  </programme>
+
+  <programme start="20260417092900 -0500" stop="20260417100000 -0500" channel="Disney Junior">
+    <title>Disney Junior Ariel Temporada 1 | Episodio 14 El monstruo de las cometas/ El espejo espeluznante</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417102900 -0500" channel="Disney Junior">
+    <title>Kínder El musical Temporada 1 | Episodio 6 Dos barrios; Todo está saliendo bien, Jamil</title>
+  </programme>
+
+  <programme start="20260417102900 -0500" stop="20260417110000 -0500" channel="Disney Junior">
+    <title>Supergatitos Temporada 1 | Episodio 17 Los Supergatitos y la canción sin elección; Los Supergatitos y la batalla fraternal</title>
+  </programme>
+
+  <programme start="20260417110000 -0500" stop="20260417113000 -0500" channel="Disney Junior">
+    <title>La casa de Mickey Mouse Temporada 3 | Episodio 33 A la orden, capitán Mickey</title>
+  </programme>
+
+  <programme start="20260417113000 -0500" stop="20260417120000 -0500" channel="Disney Junior">
+    <title>Star Wars: Aventuras de Jóvenes Jedi Temporada 1 | Episodio 12 Fuera de las vías; Los ladrones de Tharnaka</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417122700 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 1 | Episodio 7 Problema en el campamento; La gran seguidilla de delitos verdes</title>
+  </programme>
+
+  <programme start="20260417122700 -0500" stop="20260417125400 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 1 Las arañas pequeñitas; La búsqueda de la calabaza podrida de Gobby</title>
+  </programme>
+
+  <programme start="20260417125400 -0500" stop="20260417132100 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 1 | Episodio 9 Gob-zilla / Entregas rápidas Spidey</title>
+  </programme>
+
+  <programme start="20260417132100 -0500" stop="20260417134800 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 1 | Episodio 10 Buen chico, Gobby/Mono araña</title>
+  </programme>
+
+  <programme start="20260417134800 -0500" stop="20260417140100 -0500" channel="Disney Junior">
+    <title>Doctora Juguetes Temporada 1 Diente de tiburón</title>
+  </programme>
+
+  <programme start="20260417140100 -0500" stop="20260417142800 -0500" channel="Disney Junior">
+    <title>Robogobo Temporada 1 | Episodio 13 Allie Oops!; The Great Bridge Face-Off</title>
+  </programme>
+
+  <programme start="20260417142800 -0500" stop="20260417143600 -0500" channel="Disney Junior">
+    <title>Morphle y las mascotas mágicas Temporada 1 Bebé Zurtle</title>
+  </programme>
+
+  <programme start="20260417143600 -0500" stop="20260417144800 -0500" channel="Disney Junior">
+    <title>Morphle y las mascotas mágicas Temporada 1 El día perfecto</title>
+  </programme>
+
+  <programme start="20260417144800 -0500" stop="20260417150300 -0500" channel="Disney Junior">
+    <title>Kiya y los héroes de Kimoja Temporada 1 Campamento</title>
+  </programme>
+
+  <programme start="20260417150300 -0500" stop="20260417152900 -0500" channel="Disney Junior">
+    <title>Princesita Sofía Temporada 1 | Episodio 24 Cuatro son multitud</title>
+  </programme>
+
+  <programme start="20260417152900 -0500" stop="20260417155900 -0500" channel="Disney Junior">
+    <title>Princesita Sofía Temporada 1 | Episodio 1 Igual que los príncipes</title>
+  </programme>
+
+  <programme start="20260417155900 -0500" stop="20260417162900 -0500" channel="Disney Junior">
+    <title>Disney Junior Ariel Temporada 1 | Episodio 8 The Clean Team; Clamming Up</title>
+  </programme>
+
+  <programme start="20260417162900 -0500" stop="20260417170000 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 13 Energía limpia / Doc Ock y los Rocktobots</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417172900 -0500" channel="Disney Junior">
+    <title>Iron Man y sus increíbles amigos Temporada 1 | Episodio 13</title>
+  </programme>
+
+  <programme start="20260417172900 -0500" stop="20260417175900 -0500" channel="Disney Junior">
+    <title>La casa de Mickey Mouse Temporada 1 | Episodio 13 Mickey busca un tesoro</title>
+  </programme>
+
+  <programme start="20260417175900 -0500" stop="20260417183000 -0500" channel="Disney Junior">
+    <title>PJ Masks: Héroes en Pijamas Temporada 2 | Episodio 13 Los lobeznos; Lobosaurio</title>
+  </programme>
+
+  <programme start="20260417183000 -0500" stop="20260417190000 -0500" channel="Disney Junior">
+    <title>Supergatitos</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417192500 -0500" channel="Disney Junior">
+    <title>TOTS: Servicio de entrega de animalitos Temporada 1 | Episodio 9 De Vuelta al Frío: Avería en el Cuartel</title>
+  </programme>
+
+  <programme start="20260417192500 -0500" stop="20260417195100 -0500" channel="Disney Junior">
+    <title>TOTS: Servicio de entrega de animalitos Temporada 1 Avería en el Cuartel: Jugando al Gato y al Ratón</title>
+  </programme>
+
+  <programme start="20260417195100 -0500" stop="20260417201600 -0500" channel="Disney Junior">
+    <title>TOTS: Servicio de entrega de animalitos</title>
+  </programme>
+
+  <programme start="20260417201600 -0500" stop="20260417202900 -0500" channel="Disney Junior">
+    <title>Doctora Juguetes Temporada 1 ¡A prepararse para empaparse!</title>
+  </programme>
+
+  <programme start="20260417202900 -0500" stop="20260417210000 -0500" channel="Disney Junior">
+    <title>Junior Express Temporada 4 | Episodio 2 Bienvenida, Harmony</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417212700 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 9 La aventura del huevo; Un gran problema</title>
+  </programme>
+
+  <programme start="20260417212700 -0500" stop="20260417215600 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 10 Sigue a ese monstruo marino; Una sustancia pegajosa</title>
+  </programme>
+
+  <programme start="20260417215600 -0500" stop="20260417222300 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 11 La Libertad suelta; El desastre del dino de Duende Verde</title>
+  </programme>
+
+  <programme start="20260417222300 -0500" stop="20260417224800 -0500" channel="Disney Junior">
+    <title>Spidey y sus sorprendentes amigos Temporada 2 | Episodio 12 Spidey ordena: ¡Oh, no, tomates!</title>
+  </programme>
+
+  <programme start="20260417224800 -0500" stop="20260417231200 -0500" channel="Disney Junior">
+    <title>La maravillosa pastelería de Alicia Temporada 1 | Episodio 13 Una fiesta de té real y loca; La despedida de Jojo</title>
+  </programme>
+
+  <programme start="20260417231200 -0500" stop="20260417233700 -0500" channel="Disney Junior">
+    <title>Kiya y los héroes de Kimoja Temporada 1 | Episodio 13 Galactobabosa y su ritmo parte uno/ Galactobabosa y su ritmo dos</title>
+  </programme>
+
+  <programme start="20260417233700 -0500" stop="20260417235900 -0500" channel="Disney Junior">
+    <title>Princesita Sofía Temporada 1 | Episodio 24 Cuatro son multitud</title>
+  </programme>
+
+  <programme start="20260417235900 -0500" stop="20260418002200 -0500" channel="Disney Junior">
+    <title>Princesita Sofía Temporada 1 | Episodio 1 Igual que los príncipes</title>
+  </programme>
+
+  <channel id="Nick HD">
+    <display-name>Nick HD</display-name>
+  </channel>
+
+  <programme start="20260417000000 -0500" stop="20260417002000 -0500" channel="Nick HD">
+    <title>Tortugas Ninja historias mutantes T2-E4 La isla</title>
+  </programme>
+
+  <programme start="20260417002000 -0500" stop="20260417004500 -0500" channel="Nick HD">
+    <title>Bob Esponja T12-E249 Las sobrinas de Arenita / Guardias de inseguridad</title>
+  </programme>
+
+  <programme start="20260417004500 -0500" stop="20260417011000 -0500" channel="Nick HD">
+    <title>Bob Esponja T12-E250 Alarma rota / El bebé de Karen</title>
+  </programme>
+
+  <programme start="20260417011000 -0500" stop="20260417013500 -0500" channel="Nick HD">
+    <title>Los Marsupilamis T1-E4 El robo Houbi Houba / La casa del árbol de Twister</title>
+  </programme>
+
+  <programme start="20260417013500 -0500" stop="20260417015500 -0500" channel="Nick HD">
+    <title>Best &amp; Bester cada forma una aventura T1-E12 Huevo podrido / Fuera de lugar</title>
+  </programme>
+
+  <programme start="20260417015500 -0500" stop="20260417022000 -0500" channel="Nick HD">
+    <title>Best &amp; Bester cada forma una aventura T1-E13 Robo pisotón / El bosque y tú</title>
+  </programme>
+
+  <programme start="20260417022000 -0500" stop="20260417024000 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T1-E2 Guerra de las escaleras / Enemigos de moda</title>
+  </programme>
+
+  <programme start="20260417024000 -0500" stop="20260417030500 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T1-E3 Perdido en el sofá / Pat-a-ton</title>
+  </programme>
+
+  <programme start="20260417030500 -0500" stop="20260417033000 -0500" channel="Nick HD">
+    <title>Bob Esponja T12-E245 Las piernas de Gary / Rey Plankton</title>
+  </programme>
+
+  <programme start="20260417033000 -0500" stop="20260417034500 -0500" channel="Nick HD">
+    <title>Bob Esponja T9-E202 Correo caracol</title>
+  </programme>
+
+  <programme start="20260417034500 -0500" stop="20260417040500 -0500" channel="Nick HD">
+    <title>Los Thunderman Encubiertos T2-E3 Sé lo que hicieron este verano</title>
+  </programme>
+
+  <programme start="20260417040500 -0500" stop="20260417043000 -0500" channel="Nick HD">
+    <title>Fuerza Danger T1-E24 Tierra a Bose</title>
+  </programme>
+
+  <programme start="20260417043000 -0500" stop="20260417045500 -0500" channel="Nick HD">
+    <title>Henry Danger T5-E27 El visible Brad</title>
+  </programme>
+
+  <programme start="20260417045500 -0500" stop="20260417052000 -0500" channel="Nick HD">
+    <title>The Loud House T2-E20 Sí, hombre / ¿Amistad o falsedad?</title>
+  </programme>
+
+  <programme start="20260417052000 -0500" stop="20260417054000 -0500" channel="Nick HD">
+    <title>The Loud House T2-E21 No es cosa de risa / Sin aguafiestas</title>
+  </programme>
+
+  <programme start="20260417054000 -0500" stop="20260417060000 -0500" channel="Nick HD">
+    <title>The Loud House T5-E12 La audición para el solo</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417062500 -0500" channel="Nick HD">
+    <title>Bob Esponja T13-E280 Abandonen el barco / El Valhalla</title>
+  </programme>
+
+  <programme start="20260417062500 -0500" stop="20260417064500 -0500" channel="Nick HD">
+    <title>Bob Esponja T13-E281 Esponja salada / Karen cuida a Manchita</title>
+  </programme>
+
+  <programme start="20260417064500 -0500" stop="20260417070000 -0500" channel="Nick HD">
+    <title>Bob Esponja T14-E305 Róbalo Burbuja Sucio</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417072000 -0500" channel="Nick HD">
+    <title>Los Marsupilamis T1-E2 Jade la influencer / La reseña del restaurante</title>
+  </programme>
+
+  <programme start="20260417072000 -0500" stop="20260417074500 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T2-E7 El balde de deseos / El bebé Patricio</title>
+  </programme>
+
+  <programme start="20260417074500 -0500" stop="20260417075500 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T3-E1 El show de Patricio en la noche</title>
+  </programme>
+
+  <programme start="20260417075500 -0500" stop="20260417082000 -0500" channel="Nick HD">
+    <title>The Loud House T2-E2 Practicantes para mal / Los viejos y los inquietos</title>
+  </programme>
+
+  <programme start="20260417082000 -0500" stop="20260417084500 -0500" channel="Nick HD">
+    <title>The Loud House T2-E3 Hermano mayor / Pelea en familia</title>
+  </programme>
+
+  <programme start="20260417084500 -0500" stop="20260417091000 -0500" channel="Nick HD">
+    <title>The Loud House T2-E4 Merecido descanso / De vuelta al negro</title>
+  </programme>
+
+  <programme start="20260417091000 -0500" stop="20260417093000 -0500" channel="Nick HD">
+    <title>The Loud House T2-E5 Cambiando de grado / Viaje auto-tástico</title>
+  </programme>
+
+  <programme start="20260417093000 -0500" stop="20260417094000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417094000 -0500" stop="20260417095000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417095000 -0500" stop="20260417100000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417100000 -0500" stop="20260417102500 -0500" channel="Nick HD">
+    <title>Bob Esponja T9-E197 Perlita, la chica del centro comercial / Dos pulgares abajo</title>
+  </programme>
+
+  <programme start="20260417102500 -0500" stop="20260417104000 -0500" channel="Nick HD">
+    <title>Bob Esponja T12-E246 Clima tormentoso</title>
+  </programme>
+
+  <programme start="20260417104000 -0500" stop="20260417110500 -0500" channel="Nick HD">
+    <title>Los Marsupilamis T1-E3 Batalla de baile / El show debe continuar</title>
+  </programme>
+
+  <programme start="20260417110500 -0500" stop="20260417113000 -0500" channel="Nick HD">
+    <title>The Loud House T3-E7 Fanáticas molestas / Rita y sus derechos</title>
+  </programme>
+
+  <programme start="20260417113000 -0500" stop="20260417115000 -0500" channel="Nick HD">
+    <title>The Loud House T3-E8 Unión entre maestros / Ansiedad de poeta</title>
+  </programme>
+
+  <programme start="20260417115000 -0500" stop="20260417120000 -0500" channel="Nick HD">
+    <title>The Loud House T3-E20 El té delator</title>
+  </programme>
+
+  <programme start="20260417120000 -0500" stop="20260417122500 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417122500 -0500" stop="20260417125000 -0500" channel="Nick HD">
+    <title>Los Thunderman Encubiertos T1-E12 Guerra de bromas</title>
+  </programme>
+
+  <programme start="20260417125000 -0500" stop="20260417131000 -0500" channel="Nick HD">
+    <title>Fuerza Danger T2-E13 Los billones de Bilsky</title>
+  </programme>
+
+  <programme start="20260417131000 -0500" stop="20260417133500 -0500" channel="Nick HD">
+    <title>Henry Danger T4-E18 Encuentro con el amor</title>
+  </programme>
+
+  <programme start="20260417133500 -0500" stop="20260417140000 -0500" channel="Nick HD">
+    <title>Henry Danger T3-E11 Esquivando el peligro</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417142000 -0500" channel="Nick HD">
+    <title>That Girl Lay Lay T2-E13 Zelda vuelve al ruedo</title>
+  </programme>
+
+  <programme start="20260417142000 -0500" stop="20260417144500 -0500" channel="Nick HD">
+    <title>The Loud House T1-E4 El punto dulce / Historia de dos mesas</title>
+  </programme>
+
+  <programme start="20260417144500 -0500" stop="20260417151000 -0500" channel="Nick HD">
+    <title>The Loud House T1-E5 Proyecto casa Loud / Intenso debate</title>
+  </programme>
+
+  <programme start="20260417151000 -0500" stop="20260417153000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417153000 -0500" stop="20260417155500 -0500" channel="Nick HD">
+    <title>Bob Esponja T14-E295 Amamos a Hoops / Anchoa Esponja</title>
+  </programme>
+
+  <programme start="20260417155500 -0500" stop="20260417161500 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T2-E13 Hora de comer / Limpiando la casa</title>
+  </programme>
+
+  <programme start="20260417161500 -0500" stop="20260417163000 -0500" channel="Nick HD">
+    <title>El show de Patricio Estrella T1-E3 Perdido en el sofá</title>
+  </programme>
+
+  <programme start="20260417163000 -0500" stop="20260417165500 -0500" channel="Nick HD">
+    <title>The Loud House T6-E1 Regalo de peligro / Estresada por el papel</title>
+  </programme>
+
+  <programme start="20260417165500 -0500" stop="20260417171500 -0500" channel="Nick HD">
+    <title>The Loud House T6-E2 No te vayas de casa / Problema doble</title>
+  </programme>
+
+  <programme start="20260417171500 -0500" stop="20260417174000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417174000 -0500" stop="20260417180000 -0500" channel="Nick HD">
+    <title>Wylde Pak</title>
+  </programme>
+
+  <programme start="20260417180000 -0500" stop="20260417182500 -0500" channel="Nick HD">
+    <title>Bob Esponja T9-E190 Perdido en fondo de Bikini / Don Cangrejo instructor</title>
+  </programme>
+
+  <programme start="20260417182500 -0500" stop="20260417185000 -0500" channel="Nick HD">
+    <title>Los Marsupilamis T1-E3 Batalla de baile / El show debe continuar</title>
+  </programme>
+
+  <programme start="20260417185000 -0500" stop="20260417190000 -0500" channel="Nick HD">
+    <title>The Loud House T4-E9 Tórtolos</title>
+  </programme>
+
+  <programme start="20260417190000 -0500" stop="20260417192500 -0500" channel="Nick HD">
+    <title>The Loud House T6-E1 Regalo de peligro / Estresada por el papel</title>
+  </programme>
+
+  <programme start="20260417192500 -0500" stop="20260417195000 -0500" channel="Nick HD">
+    <title>The Loud House T6-E2 No te vayas de casa / Problema doble</title>
+  </programme>
+
+  <programme start="20260417195000 -0500" stop="20260417200000 -0500" channel="Nick HD">
+    <title>The Loud House T8-E4 InTODDnito</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417202500 -0500" channel="Nick HD">
+    <title>That Girl Lay Lay T2-E13 Zelda vuelve al ruedo</title>
+  </programme>
+
+  <programme start="20260417202500 -0500" stop="20260417205000 -0500" channel="Nick HD">
+    <title>Los Thunderman Encubiertos T2-E10 Fiesta y sorpresa</title>
+  </programme>
+
+  <programme start="20260417205000 -0500" stop="20260417211500 -0500" channel="Nick HD">
+    <title>Henry Danger T5-E19 Dobles de peligro</title>
+  </programme>
+
+  <programme start="20260417211500 -0500" stop="20260417213500 -0500" channel="Nick HD">
+    <title>Henry Danger T5-E23 Un cuento de dos Pipers</title>
+  </programme>
+
+  <programme start="20260417213500 -0500" stop="20260417220000 -0500" channel="Nick HD">
+    <title>Fuerza Danger T2-E6 El musical de Mika</title>
+  </programme>
+
+  <programme start="20260417220000 -0500" stop="20260417222500 -0500" channel="Nick HD">
+    <title>iCarly T5-E9 El rescate de Carly</title>
+  </programme>
+
+  <programme start="20260417222500 -0500" stop="20260417225000 -0500" channel="Nick HD">
+    <title>iCarly T5-E13 La captura del ladrón</title>
+  </programme>
+
+  <programme start="20260417225000 -0500" stop="20260417231500 -0500" channel="Nick HD">
+    <title>Victorious T3-E26 Un millar de bolimoras</title>
+  </programme>
+
+  <programme start="20260417231500 -0500" stop="20260417233500 -0500" channel="Nick HD">
+    <title>Sam y Cat T1-E11 #LaMamáDeGoomer</title>
+  </programme>
+
+  <programme start="20260417233500 -0500" stop="20260418000000 -0500" channel="Nick HD">
+    <title>Tortugas Ninja historias mutantes T2-E5 Los otros mutanimales</title>
+  </programme>
+
+  <channel id="Cartoonito">
+    <display-name>Cartoonito</display-name>
+  </channel>
+
+  <programme start="20260417235700 -0500" stop="20260418000400 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417000400 -0500" stop="20260417001100 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417001100 -0500" stop="20260417001800 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417001800 -0500" stop="20260417002500 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417002500 -0500" stop="20260417003300 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417003300 -0500" stop="20260417004000 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417004000 -0500" stop="20260417004700 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417004700 -0500" stop="20260417005400 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417005400 -0500" stop="20260417010100 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417010100 -0500" stop="20260417011600 -0500" channel="Cartoonito">
+    <title>Blippi ¡Blippi va al dentista!</title>
+  </programme>
+
+  <programme start="20260417011600 -0500" stop="20260417013000 -0500" channel="Cartoonito">
+    <title>Blippi Blippi y el gran dinosaurio</title>
+  </programme>
+
+  <programme start="20260417013000 -0500" stop="20260417013400 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 2 Garbage Truck</title>
+  </programme>
+
+  <programme start="20260417013400 -0500" stop="20260417013700 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 13 Planets</title>
+  </programme>
+
+  <programme start="20260417013700 -0500" stop="20260417014100 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 19 Ducks</title>
+  </programme>
+
+  <programme start="20260417014100 -0500" stop="20260417014400 -0500" channel="Cartoonito">
+    <title>Blippi Wonders</title>
+  </programme>
+
+  <programme start="20260417014400 -0500" stop="20260417014700 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 14 Chocolate Factory</title>
+  </programme>
+
+  <programme start="20260417014700 -0500" stop="20260417015100 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 18 Sneeze</title>
+  </programme>
+
+  <programme start="20260417015100 -0500" stop="20260417015400 -0500" channel="Cartoonito">
+    <title>Blippi Wonders</title>
+  </programme>
+
+  <programme start="20260417015400 -0500" stop="20260417015700 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 7 Toothbrush</title>
+  </programme>
+
+  <programme start="20260417015700 -0500" stop="20260417020100 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 21 Bats</title>
+  </programme>
+
+  <programme start="20260417020100 -0500" stop="20260417020400 -0500" channel="Cartoonito">
+    <title>Blippi Wonders Temporada 1 | Episodio 10 Ocean</title>
+  </programme>
+
+  <programme start="20260417020400 -0500" stop="20260417021800 -0500" channel="Cartoonito">
+    <title>Meekah Temporada 1 | Episodio 20 Meekah descubre a los dinosaurios</title>
+  </programme>
+
+  <programme start="20260417021800 -0500" stop="20260417023300 -0500" channel="Cartoonito">
+    <title>Meekah</title>
+  </programme>
+
+  <programme start="20260417023300 -0500" stop="20260417024300 -0500" channel="Cartoonito">
+    <title>Meekah Temporada 1 | Episodio 3 Meekah conoce a Stanley, el dinosaurio</title>
+  </programme>
+
+  <programme start="20260417024300 -0500" stop="20260417025600 -0500" channel="Cartoonito">
+    <title>Meekah Temporada 1 | Episodio 4 Meekah Sky Zone - Flips</title>
+  </programme>
+
+  <programme start="20260417025600 -0500" stop="20260417030300 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417030300 -0500" stop="20260417031000 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417031000 -0500" stop="20260417031700 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417031700 -0500" stop="20260417032400 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417032400 -0500" stop="20260417033100 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417033100 -0500" stop="20260417033800 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417033800 -0500" stop="20260417034500 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417034500 -0500" stop="20260417035200 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417035200 -0500" stop="20260417035900 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417035900 -0500" stop="20260417041100 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow</title>
+  </programme>
+
+  <programme start="20260417041100 -0500" stop="20260417042200 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 26 Onion Shadow Cha-Cha</title>
+  </programme>
+
+  <programme start="20260417042200 -0500" stop="20260417043300 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 38 World Elevator Hike</title>
+  </programme>
+
+  <programme start="20260417043300 -0500" stop="20260417044400 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow</title>
+  </programme>
+
+  <programme start="20260417044400 -0500" stop="20260417045500 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 45 Wild Under Bees</title>
+  </programme>
+
+  <programme start="20260417045500 -0500" stop="20260417050700 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow</title>
+  </programme>
+
+  <programme start="20260417050700 -0500" stop="20260417051000 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 2 | Episodio 6 Animal Hypno Mixup</title>
+  </programme>
+
+  <programme start="20260417051000 -0500" stop="20260417051400 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1</title>
+  </programme>
+
+  <programme start="20260417051400 -0500" stop="20260417051700 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 2 | Episodio 19 Get a Move On</title>
+  </programme>
+
+  <programme start="20260417051700 -0500" stop="20260417052100 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 Mila the Robot</title>
+  </programme>
+
+  <programme start="20260417052100 -0500" stop="20260417052400 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 Magic Mirror</title>
+  </programme>
+
+  <programme start="20260417052400 -0500" stop="20260417052700 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Magic Pets Save the Day</title>
+  </programme>
+
+  <programme start="20260417052700 -0500" stop="20260417053100 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 | Episodio 179 Morphle congelado</title>
+  </programme>
+
+  <programme start="20260417053100 -0500" stop="20260417053500 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 My Magic House</title>
+  </programme>
+
+  <programme start="20260417053500 -0500" stop="20260417053800 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 2 Paint It Green</title>
+  </programme>
+
+  <programme start="20260417053800 -0500" stop="20260417054200 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 2 The &apos;Be Quiet&apos; Game</title>
+  </programme>
+
+  <programme start="20260417054200 -0500" stop="20260417054500 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 2 Remote Control Mayhem</title>
+  </programme>
+
+  <programme start="20260417054500 -0500" stop="20260417054900 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 Muddy Morphle Takes a Bath</title>
+  </programme>
+
+  <programme start="20260417054900 -0500" stop="20260417055200 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 | Episodio 209 Morphle gets Slimed</title>
+  </programme>
+
+  <programme start="20260417055200 -0500" stop="20260417055500 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Temporada 1 Morphle is Lost</title>
+  </programme>
+
+  <programme start="20260417055500 -0500" stop="20260417060000 -0500" channel="Cartoonito">
+    <title>Mi mascota mágica Morphle Morphle and Mila are Best Friends</title>
+  </programme>
+
+  <programme start="20260417060000 -0500" stop="20260417060700 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 37 The Dos and Don&apos;ts Badge and Other Stories</title>
+  </programme>
+
+  <programme start="20260417060700 -0500" stop="20260417061400 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 9 El primer día de Betty</title>
+  </programme>
+
+  <programme start="20260417061400 -0500" stop="20260417062100 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 22 The Feelings Badge</title>
+  </programme>
+
+  <programme start="20260417062100 -0500" stop="20260417062900 -0500" channel="Cartoonito">
+    <title>Hey Duggee</title>
+  </programme>
+
+  <programme start="20260417062900 -0500" stop="20260417063600 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 27 The Ball Badge</title>
+  </programme>
+
+  <programme start="20260417063600 -0500" stop="20260417064800 -0500" channel="Cartoonito">
+    <title>Bea y sus bloques Temporada 1 La clase de gimnasia</title>
+  </programme>
+
+  <programme start="20260417064800 -0500" stop="20260417070100 -0500" channel="Cartoonito">
+    <title>Bea y sus bloques</title>
+  </programme>
+
+  <programme start="20260417070100 -0500" stop="20260417071300 -0500" channel="Cartoonito">
+    <title>Mecha Builders</title>
+  </programme>
+
+  <programme start="20260417071300 -0500" stop="20260417072600 -0500" channel="Cartoonito">
+    <title>Mecha Builders Temporada 1 The Mecha T-Rex</title>
+  </programme>
+
+  <programme start="20260417072600 -0500" stop="20260417073300 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417073300 -0500" stop="20260417074100 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417074100 -0500" stop="20260417074800 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417074800 -0500" stop="20260417075500 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417075500 -0500" stop="20260417080300 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417080300 -0500" stop="20260417081400 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 2 | Episodio 15 El resfriado</title>
+  </programme>
+
+  <programme start="20260417081400 -0500" stop="20260417082600 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 12 Pan con queso</title>
+  </programme>
+
+  <programme start="20260417082600 -0500" stop="20260417083800 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra</title>
+  </programme>
+
+  <programme start="20260417083800 -0500" stop="20260417084900 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 30 Mini golf</title>
+  </programme>
+
+  <programme start="20260417084900 -0500" stop="20260417085500 -0500" channel="Cartoonito">
+    <title>Cuquín Temporada 2 | Episodio 10</title>
+  </programme>
+
+  <programme start="20260417085500 -0500" stop="20260417090100 -0500" channel="Cartoonito">
+    <title>Cuquín</title>
+  </programme>
+
+  <programme start="20260417090100 -0500" stop="20260417091200 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417091200 -0500" stop="20260417092500 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 2 | Episodio 12 A T-Rexcellent Adventure</title>
+  </programme>
+
+  <programme start="20260417092500 -0500" stop="20260417093600 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 1 | Episodio 31 Dynamic Du-Oh-No</title>
+  </programme>
+
+  <programme start="20260417093600 -0500" stop="20260417094700 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 2 | Episodio 9 Razzle Dazzle Frazzle</title>
+  </programme>
+
+  <programme start="20260417094700 -0500" stop="20260417095400 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417095400 -0500" stop="20260417100200 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417100200 -0500" stop="20260417100900 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417100900 -0500" stop="20260417101600 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings Temporada 4 | Episodio 22 Evil Spirit</title>
+  </programme>
+
+  <programme start="20260417101600 -0500" stop="20260417102300 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417102300 -0500" stop="20260417103000 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings Temporada 4 | Episodio 14 Grizzy Academy</title>
+  </programme>
+
+  <programme start="20260417103000 -0500" stop="20260417103700 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417103700 -0500" stop="20260417104400 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417104400 -0500" stop="20260417105200 -0500" channel="Cartoonito">
+    <title>Grizzy y los lemmings</title>
+  </programme>
+
+  <programme start="20260417105200 -0500" stop="20260417110200 -0500" channel="Cartoonito">
+    <title>Blippi</title>
+  </programme>
+
+  <programme start="20260417110200 -0500" stop="20260417111000 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417111000 -0500" stop="20260417111700 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417111700 -0500" stop="20260417112400 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417112400 -0500" stop="20260417113100 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417113100 -0500" stop="20260417114200 -0500" channel="Cartoonito">
+    <title>Creciendo con la Gallina Pintadita Temporada 1 | Episodio 13 Sano y Salvo</title>
+  </programme>
+
+  <programme start="20260417114200 -0500" stop="20260417114900 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417114900 -0500" stop="20260417115600 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417115600 -0500" stop="20260417120300 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417120300 -0500" stop="20260417121500 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 12 Pan con queso</title>
+  </programme>
+
+  <programme start="20260417121500 -0500" stop="20260417122600 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 37 Dim Sum</title>
+  </programme>
+
+  <programme start="20260417122600 -0500" stop="20260417123800 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 1 | Episodio 32 Al Batimovil</title>
+  </programme>
+
+  <programme start="20260417123800 -0500" stop="20260417124900 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417124900 -0500" stop="20260417130000 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417130700 -0500" channel="Cartoonito">
+    <title>Cuquín Temporada 1 | Episodio 9 Piratas y Vikingos</title>
+  </programme>
+
+  <programme start="20260417130700 -0500" stop="20260417131300 -0500" channel="Cartoonito">
+    <title>Cuquín Temporada 2 | Episodio 10</title>
+  </programme>
+
+  <programme start="20260417131300 -0500" stop="20260417131900 -0500" channel="Cartoonito">
+    <title>Cuquín</title>
+  </programme>
+
+  <programme start="20260417131900 -0500" stop="20260417134200 -0500" channel="Cartoonito">
+    <title>La casa de muñecas de Gabby</title>
+  </programme>
+
+  <programme start="20260417134200 -0500" stop="20260417135300 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 39 Glimmering Thunder Rhythm</title>
+  </programme>
+
+  <programme start="20260417135300 -0500" stop="20260417140500 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 27 Curve Basket Repeat</title>
+  </programme>
+
+  <programme start="20260417140500 -0500" stop="20260417141200 -0500" channel="Cartoonito">
+    <title>Booba Temporada 5 | Episodio 26 Round Worlds</title>
+  </programme>
+
+  <programme start="20260417141200 -0500" stop="20260417141900 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417141900 -0500" stop="20260417142600 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417142600 -0500" stop="20260417143400 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417143400 -0500" stop="20260417144100 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417144100 -0500" stop="20260417144900 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417144900 -0500" stop="20260417145600 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417145600 -0500" stop="20260417150300 -0500" channel="Cartoonito">
+    <title>Pocoyó Temporada 5 | Episodio 8 Pinzas</title>
+  </programme>
+
+  <programme start="20260417150300 -0500" stop="20260417151400 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra</title>
+  </programme>
+
+  <programme start="20260417151400 -0500" stop="20260417152600 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra</title>
+  </programme>
+
+  <programme start="20260417152600 -0500" stop="20260417153700 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417153700 -0500" stop="20260417154800 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417154800 -0500" stop="20260417155900 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 1 | Episodio 29 Pánico mecánico</title>
+  </programme>
+
+  <programme start="20260417155900 -0500" stop="20260417160700 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 37 The Dos and Don&apos;ts Badge and Other Stories</title>
+  </programme>
+
+  <programme start="20260417160700 -0500" stop="20260417161400 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 9 El primer día de Betty</title>
+  </programme>
+
+  <programme start="20260417161400 -0500" stop="20260417162100 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 22 The Feelings Badge</title>
+  </programme>
+
+  <programme start="20260417162100 -0500" stop="20260417162800 -0500" channel="Cartoonito">
+    <title>Hey Duggee</title>
+  </programme>
+
+  <programme start="20260417162800 -0500" stop="20260417163600 -0500" channel="Cartoonito">
+    <title>Hey Duggee Temporada 4 | Episodio 27 The Ball Badge</title>
+  </programme>
+
+  <programme start="20260417163600 -0500" stop="20260417164300 -0500" channel="Cartoonito">
+    <title>Minibods Temporada 1 Pumpkin Munch Mayhem</title>
+  </programme>
+
+  <programme start="20260417164300 -0500" stop="20260417165100 -0500" channel="Cartoonito">
+    <title>Minibods Temporada 1 | Episodio 11 Muddy Rescue Time</title>
+  </programme>
+
+  <programme start="20260417165100 -0500" stop="20260417165900 -0500" channel="Cartoonito">
+    <title>Minibods</title>
+  </programme>
+
+  <programme start="20260417165900 -0500" stop="20260417170600 -0500" channel="Cartoonito">
+    <title>Minibods Temporada 1 Spoilsport Spider</title>
+  </programme>
+
+  <programme start="20260417170600 -0500" stop="20260417171700 -0500" channel="Cartoonito">
+    <title>Blippi</title>
+  </programme>
+
+  <programme start="20260417171700 -0500" stop="20260417172500 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417172500 -0500" stop="20260417173200 -0500" channel="Cartoonito">
+    <title>Cosmo - O Cosmonauta</title>
+  </programme>
+
+  <programme start="20260417173200 -0500" stop="20260417173900 -0500" channel="Cartoonito">
+    <title>Cosmo, el cosmonauta Tamá</title>
+  </programme>
+
+  <programme start="20260417173900 -0500" stop="20260417175000 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 39 Glimmering Thunder Rhythm</title>
+  </programme>
+
+  <programme start="20260417175000 -0500" stop="20260417180100 -0500" channel="Cartoonito">
+    <title>Hey Fuzzy Yellow Temporada 1 | Episodio 27 Curve Basket Repeat</title>
+  </programme>
+
+  <programme start="20260417180100 -0500" stop="20260417181300 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 2 | Episodio 13 Grandpa Oink</title>
+  </programme>
+
+  <programme start="20260417181300 -0500" stop="20260417182400 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 12 Pan con queso</title>
+  </programme>
+
+  <programme start="20260417182400 -0500" stop="20260417183500 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 37 Dim Sum</title>
+  </programme>
+
+  <programme start="20260417183500 -0500" stop="20260417184700 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 1 | Episodio 32 Al Batimovil</title>
+  </programme>
+
+  <programme start="20260417184700 -0500" stop="20260417185800 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417185800 -0500" stop="20260417190500 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se Temporada 2 | Episodio 6 Olhar o Passado, Entender o Presente</title>
+  </programme>
+
+  <programme start="20260417190500 -0500" stop="20260417191200 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se Temporada 2 | Episodio 10 Todo Mundo É Diferente</title>
+  </programme>
+
+  <programme start="20260417191200 -0500" stop="20260417191900 -0500" channel="Cartoonito">
+    <title>Mundo Bita Imagine-se</title>
+  </programme>
+
+  <programme start="20260417191900 -0500" stop="20260417192600 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417192600 -0500" stop="20260417193400 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417193400 -0500" stop="20260417194100 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417194100 -0500" stop="20260417194800 -0500" channel="Cartoonito">
+    <title>Pocoyó</title>
+  </programme>
+
+  <programme start="20260417194800 -0500" stop="20260417195500 -0500" channel="Cartoonito">
+    <title>Cuquín Temporada 2 | Episodio 10</title>
+  </programme>
+
+  <programme start="20260417195500 -0500" stop="20260417200100 -0500" channel="Cartoonito">
+    <title>Cuquín</title>
+  </programme>
+
+  <programme start="20260417200100 -0500" stop="20260417200900 -0500" channel="Cartoonito">
+    <title>Lu &amp; the Bally Bunch</title>
+  </programme>
+
+  <programme start="20260417200900 -0500" stop="20260417201700 -0500" channel="Cartoonito">
+    <title>Lu &amp; the Bally Bunch</title>
+  </programme>
+
+  <programme start="20260417201700 -0500" stop="20260417202500 -0500" channel="Cartoonito">
+    <title>Lu &amp; the Bally Bunch</title>
+  </programme>
+
+  <programme start="20260417202500 -0500" stop="20260417203300 -0500" channel="Cartoonito">
+    <title>Lu &amp; the Bally Bunch</title>
+  </programme>
+
+  <programme start="20260417203300 -0500" stop="20260417205700 -0500" channel="Cartoonito">
+    <title>La casa de muñecas de Gabby</title>
+  </programme>
+
+  <programme start="20260417205700 -0500" stop="20260417210800 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 30 Mini golf</title>
+  </programme>
+
+  <programme start="20260417210800 -0500" stop="20260417211900 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra</title>
+  </programme>
+
+  <programme start="20260417211900 -0500" stop="20260417213200 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 20 ¡Despegue!</title>
+  </programme>
+
+  <programme start="20260417213200 -0500" stop="20260417214300 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 2 | Episodio 9 Bugs and the Beanstalk</title>
+  </programme>
+
+  <programme start="20260417214300 -0500" stop="20260417215400 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 1 | Episodio 35 Problemas en el castillo</title>
+  </programme>
+
+  <programme start="20260417215400 -0500" stop="20260417220600 -0500" channel="Cartoonito">
+    <title>Bugs y sus amigos a la obra Temporada 2 | Episodio 25 Pauleen&apos;s Pins</title>
+  </programme>
+
+  <programme start="20260417220600 -0500" stop="20260417221700 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417221700 -0500" stop="20260417222800 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417222800 -0500" stop="20260417224000 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 1 | Episodio 13 El día de Zoom</title>
+  </programme>
+
+  <programme start="20260417224000 -0500" stop="20260417225100 -0500" channel="Cartoonito">
+    <title>Batwheels Cuando la Ciudad Gótica es amenazada por supervillanos, Bam, Buff, BiBi, Redbird y Wing trabajan juntos para luchar contra los malos y salvar el día.</title>
+  </programme>
+
+  <programme start="20260417225100 -0500" stop="20260417230300 -0500" channel="Cartoonito">
+    <title>Batwheels Temporada 3 | Episodio 9 Batdraft</title>
+  </programme>
+
+  <programme start="20260417230300 -0500" stop="20260417231000 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417231000 -0500" stop="20260417231800 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417231800 -0500" stop="20260417232500 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417232500 -0500" stop="20260417233200 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417233200 -0500" stop="20260417234000 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417234000 -0500" stop="20260417234700 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417234700 -0500" stop="20260417235400 -0500" channel="Cartoonito">
+    <title>La araña Lucas</title>
+  </programme>
+
+  <programme start="20260417235400 -0500" stop="20260418000200 -0500" channel="Cartoonito">
+    <title>Pocoyó Temporada 5 | Episodio 26 Vaya lio</title>
+  </programme>
+
+  <channel id="De Pelicula">
+    <display-name>De Pelicula</display-name>
+  </channel>
+
+  <programme start="20260417233600 -0500" stop="20260418010000 -0500" channel="De Pelicula">
+    <title>Azúcar y Sal</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417031000 -0500" channel="De Pelicula">
+    <title>Los albañiles</title>
+  </programme>
+
+  <programme start="20260417031000 -0500" stop="20260417050000 -0500" channel="De Pelicula">
+    <title>Delincuente</title>
+  </programme>
+
+  <programme start="20260417050000 -0500" stop="20260417070000 -0500" channel="De Pelicula">
+    <title>El otro</title>
+  </programme>
+
+  <programme start="20260417070000 -0500" stop="20260417084800 -0500" channel="De Pelicula">
+    <title>La india blanca</title>
+  </programme>
+
+  <programme start="20260417084800 -0500" stop="20260417103300 -0500" channel="De Pelicula">
+    <title>El Sargento Pérez</title>
+  </programme>
+
+  <programme start="20260417103300 -0500" stop="20260417115600 -0500" channel="De Pelicula">
+    <title>Tin Tan el hombre mono</title>
+  </programme>
+
+  <programme start="20260417115600 -0500" stop="20260417135300 -0500" channel="De Pelicula">
+    <title>El día de las madres</title>
+  </programme>
+
+  <programme start="20260417135300 -0500" stop="20260417151700 -0500" channel="De Pelicula">
+    <title>La justicia tiene doce años</title>
+  </programme>
+
+  <programme start="20260417151700 -0500" stop="20260417170000 -0500" channel="De Pelicula">
+    <title>Los amores de Juan Charras</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417183700 -0500" channel="De Pelicula">
+    <title>Operación carambola</title>
+  </programme>
+
+  <programme start="20260417183700 -0500" stop="20260417202600 -0500" channel="De Pelicula">
+    <title>A volar joven</title>
+  </programme>
+
+  <programme start="20260417202600 -0500" stop="20260417221100 -0500" channel="De Pelicula">
+    <title>También de dolor se canta</title>
+  </programme>
+
+  <programme start="20260417221100 -0500" stop="20260417235100 -0500" channel="De Pelicula">
+    <title>La golfa del barrio</title>
+  </programme>
+
+  <programme start="20260417235100 -0500" stop="20260418014500 -0500" channel="De Pelicula">
+    <title>Huele a gas</title>
+  </programme>
+
+  <channel id="ATV Sur">
+    <display-name>ATV Sur</display-name>
+  </channel>
+
+  <programme start="20260417060000 -0500" stop="20260417090000 -0500" channel="ATV Sur">
+    <title>Nuevo día Magazine La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</title>
+  </programme>
+
+  <programme start="20260417090000 -0500" stop="20260417130000 -0500" channel="ATV Sur">
+    <title>Nuevo día Magazine La mejor opción para disfrutar las mañanas con información, cultura y entretenimiento de alta calidad.</title>
+  </programme>
+
+  <programme start="20260417130000 -0500" stop="20260417140000 -0500" channel="ATV Sur">
+    <title>ATV noticias Periodístico Las últimas noticias y actualidad del Perú y de todo el mundo, con informes de investigación y especiales.</title>
+  </programme>
+
+  <programme start="20260417140000 -0500" stop="20260417143000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417143000 -0500" stop="20260417150000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417150000 -0500" stop="20260417160000 -0500" channel="ATV Sur">
+    <title>Cámara loca Comedia Divertido espacio con mucho entretenimiento que presenta a buen ritmo vídeos inéditos, realizados por los espectadores para compartir los momentos más divertidos de sus mascotas favoritas y las personas.</title>
+  </programme>
+
+  <programme start="20260417160000 -0500" stop="20260417170000 -0500" channel="ATV Sur">
+    <title>Desafío India Reality Show 24 participantes que ya han participado en ediciones anteriores compiten por un premio de COL $600.000.000 y enfrentan desafíos en diversas ciudades de la India, como Pondicherry, Chengalpattu, Thirukalukundram y Kanchipuram.</title>
+  </programme>
+
+  <programme start="20260417170000 -0500" stop="20260417200000 -0500" channel="ATV Sur">
+    <title>Desafío Súper Humanos Reality Show Una competencia en la que los participantes deben superar desafíos extremos para seguir en juego. Un concurso que pondrá a prueba la fuerza, destreza y resistencia de los participantes mientras compiten entre sí por ganar.</title>
+  </programme>
+
+  <programme start="20260417200000 -0500" stop="20260417210000 -0500" channel="ATV Sur">
+    <title>Revenge Drama Hay una nueva vecina en el exclusivo pueblo de los Hamptons: Emily Thorne. Ella vivió allí años atrás hasta que alguien arruinó la vida de su familia y la suya para siempre. Ahora, vuelve para vengarse.</title>
+  </programme>
+
+  <programme start="20260417210000 -0500" stop="20260417233000 -0500" channel="ATV Sur">
+    <title>TV noticias central Periodístico Con la conducción y credibilidad de Drusila Zileri y Carla Muschi, el grupo cuenta con la mejor Unidad de Investigación de la Televisión Peruana, cuyos destapes y primicias son el termómetro de la coyuntura mediática.</title>
+  </programme>
+
+  <programme start="20260417233000 -0500" stop="20260418000000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417000000 -0500" stop="20260417003000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417003000 -0500" stop="20260417010000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417010000 -0500" stop="20260417013000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417013000 -0500" stop="20260417020000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417020000 -0500" stop="20260417023000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417023000 -0500" stop="20260417030000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417030000 -0500" stop="20260417033000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417033000 -0500" stop="20260417040000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417043000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
+  </programme>
+
+  <programme start="20260417043000 -0500" stop="20260417050000 -0500" channel="ATV Sur">
+    <title>Nutrissa Publicidad Infomercial sobre los tratamientos naturales de la empresa para mejorar la salud de las familias.</title>
   </programme>
 
   <channel id="HBO HD">
     <display-name>HBO HD</display-name>
   </channel>
 
-  <programme start="20260416041100 -0500" stop="20260416062100 -0500" channel="HBO HD">
-    <title>Jurassic Park Aventura</title>
+  <programme start="20260417054500 -0500" stop="20260417081000 -0500" channel="HBO HD">
+    <title>Historia de honor Devotion Bélica</title>
   </programme>
 
-  <programme start="20260416062100 -0500" stop="20260416080000 -0500" channel="HBO HD">
-    <title>Los tipos malos 2 The Bad Guys 2 Infantil</title>
+  <programme start="20260417081000 -0500" stop="20260417103900 -0500" channel="HBO HD">
+    <title>Aquaman Acción</title>
   </programme>
 
-  <programme start="20260416080000 -0500" stop="20260416102500 -0500" channel="HBO HD">
-    <title>Rápidos y furiosos 8 Fast &amp; Furious 8 Acción</title>
+  <programme start="20260417103900 -0500" stop="20260417125000 -0500" channel="HBO HD">
+    <title>Cómo entrenar a tu dragón How to Train Your Dragon Aventura</title>
   </programme>
 
-  <programme start="20260416102500 -0500" stop="20260416123100 -0500" channel="HBO HD">
-    <title>El intermediario Relay Suspenso</title>
+  <programme start="20260417125000 -0500" stop="20260417151000 -0500" channel="HBO HD">
+    <title>Jurassic World: El renacer Jurassic World: Rebirth Acción</title>
   </programme>
 
-  <programme start="20260416123100 -0500" stop="20260416143100 -0500" channel="HBO HD">
-    <title>Una esposa de mentira Just Go with It Comedia</title>
+  <programme start="20260417151000 -0500" stop="20260417171800 -0500" channel="HBO HD">
+    <title>Cónclave Conclave Thriller</title>
   </programme>
 
-  <programme start="20260416143100 -0500" stop="20260416162100 -0500" channel="HBO HD">
-    <title>Los tipos malos 2 The Bad Guys 2 Infantil</title>
-  </programme>
-
-  <programme start="20260416162100 -0500" stop="20260416190000 -0500" channel="HBO HD">
-    <title>Duna - Parte dos Dune - Part Two C.Ficción</title>
-  </programme>
-
-  <programme start="20260416190000 -0500" stop="20260416200000 -0500" channel="HBO HD">
-    <title>Euphoria Temporada 1 Episodio 9 - Trouble Don&apos;t Last Always Luego de ser abandonada por Jules en la estación de tren y sufrir una recaída en las drogas, Rue celebra la Navidad.</title>
-  </programme>
-
-  <programme start="20260416200000 -0500" stop="20260416211100 -0500" channel="HBO HD">
+  <programme start="20260417171800 -0500" stop="20260417182100 -0500" channel="HBO HD">
     <title>DTF St. Louis Temporada 1 Episodio 7 - Nadie es normal. Solo se ve así desde la vereda de enfrente Con Tiger Tiger fuera de escena, Clark propone un nuevo plan. Tras una serie de revelaciones, Plumb y Homer se ven obligados a cuestionar todo lo que creían saber sobre el caso.</title>
   </programme>
 
-  <programme start="20260416211100 -0500" stop="20260416230600 -0500" channel="HBO HD">
-    <title>Venom: el último baile Venom: The Last Dance Acción</title>
+  <programme start="20260417182100 -0500" stop="20260417200100 -0500" channel="HBO HD">
+    <title>Hipnosis: arma invisible Hypnotic Acción</title>
   </programme>
 
-  <programme start="20260416230600 -0500" stop="20260417004600 -0500" channel="HBO HD">
-    <title>Posesión infernal: El despertar Evil Dead Rise Terror</title>
+  <programme start="20260417200100 -0500" stop="20260417220000 -0500" channel="HBO HD">
+    <title>Megalodón The Meg Acción</title>
   </programme>
 
-  <programme start="20260416004600 -0500" stop="20260416022600 -0500" channel="HBO HD">
-    <title>Drop: amenaza anónima Drop Drama</title>
+  <programme start="20260417220000 -0500" stop="20260418001900 -0500" channel="HBO HD">
+    <title>Jurassic World: El renacer Jurassic World: Rebirth Acción</title>
   </programme>
 
-  <programme start="20260416022600 -0500" stop="20260416041100 -0500" channel="HBO HD">
-    <title>Noche de juegos Game Night Comedia</title>
+  <programme start="20260417001900 -0500" stop="20260417022500 -0500" channel="HBO HD">
+    <title>Cónclave Conclave Thriller</title>
   </programme>
 
-  <programme start="20260416041100 -0500" stop="20260416055600 -0500" channel="HBO HD">
-    <title>Agente Salt Salt Acción</title>
+  <programme start="20260417022500 -0500" stop="20260417040000 -0500" channel="HBO HD">
+    <title>Sisu: camino a la venganza Sisu 2 Acción</title>
+  </programme>
+
+  <programme start="20260417040000 -0500" stop="20260417055000 -0500" channel="HBO HD">
+    <title>La gran muralla The Great Wall Aventura</title>
   </programme>
 
 </tv>
